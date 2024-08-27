@@ -1,0 +1,183 @@
+{
+    "aeroplane": [
+        "wings, both horizontal and vertical",
+        "fuselage (main body) with windows and doors",
+        "propellers or jet engines",
+        "tail section with a horizontal stabilizer",
+        "wheels or landing gear",
+        "distinctive shape and design"
+    ],
+    "bicycle": [
+        "two wheels of equal size",
+        "a metal frame",
+        "a seat or saddle",
+        "handlebars",
+        "pedals",
+        "a chain or gear system",
+        "brakes and brake levers"
+    ],
+    "bird": [
+        "feathers",
+        "wings",
+        "beak",
+        "feathers of varying colors such as brown, grey, blue, green, and yellow",
+        "legs and feet",
+        "tail feathers",
+        "distinctive head shape or crest",
+        "perch or branch it is sitting on"
+    ],
+    "boat": [
+        "floating vessel",
+        "various shapes and sizes",
+        "made of metal, wood, or fiberglass",
+        "hull, deck, and superstructure",
+        "propulsion systems such as motors, sails, or paddles",
+        "steering system",
+        "seats or cabins",
+        "ropes, anchors, or other nautical equipment"
+    ],
+    "bottle": [
+        "a transparent or translucent container",
+        "cylindrical or curvaceous shape",
+        "a narrow neck with a cap or cork",
+        "a label or branding on the side",
+        "ribs or textures on the surface",
+        "a flat bottom",
+        "liquid contents visible inside"
+    ],
+    "bus": [
+        "large, rectangular vehicle",
+        "wheels and tires",
+        "windows along the sides",
+        "a front grille and headlights",
+        "a door for entry and exit",
+        "seating for multiple passengers",
+        "possibly a destination sign on the front or side"
+    ],
+    "car": [
+        "four wheels",
+        "metal body",
+        "windshield and windows",
+        "headlights",
+        "front and rear bumpers",
+        "doors and trunk",
+        "wheels and tires",
+        "license plate"
+    ],
+    "cat": [
+        "furry body",
+        "four legs",
+        "whiskers",
+        "pointed ears",
+        "sharp teeth and claws",
+        "narrow nose",
+        "round eyes",
+        "slender body",
+        "various colors such as black, white, grey, orange, or tabby."
+    ],
+    "chair": [
+        "a piece of furniture for sitting",
+        "typically has a backrest and legs",
+        "usually has a seat and armrests",
+        "may have cushions or upholstery",
+        "can be made of various materials like wood, metal, or plastic"
+    ],
+    "cow": [
+        "large, hooved, four-legged mammal",
+        "typically black, brown, white, or a mix of these colors",
+        "distinctive horns or ears",
+        "a distinctive body shape, with a large body and relatively small legs",
+        "a gentle, calm-looking face",
+        "often in a natural or rural setting"
+    ],
+    "diningtable": [
+        "a piece of furniture with a flat surface",
+        "typically rectangular or oval in shape",
+        "legs or a base to support the surface",
+        "often made of wood, metal, or glass",
+        "may have chairs or other seating around it",
+        "may have objects such as plates, glasses, or utensils on it"
+    ],
+    "dog": [
+        "four-legged animal",
+        "furry body",
+        "floppy ears",
+        "snout or muzzle",
+        "tail that wags",
+        "various shapes and sizes of body",
+        "different breeds have unique characteristics (e.g. size, coat, color)"
+    ],
+    "horse": [
+        "large quadruped mammal",
+        "brown, black, white, or grey coat",
+        "distinctive head shape with a long muzzle and ears",
+        "prominent eyes and nostrils",
+        "muscular body with a prominent neck and back",
+        "flowing mane and tail",
+        "hooves on its feet"
+    ],
+    "motorbike": [
+        "two wheels",
+        "a seat for the rider",
+        "handlebars",
+        "a fuel tank",
+        "an engine or exhaust system",
+        "a chain or belt drive",
+        "a kickstand or centre stand",
+        "often reflective surfaces and bright colours"
+    ],
+    "person": [
+        "upright, two-legged stance",
+        "human facial features (eyes, nose, mouth)",
+        "arms and legs with joints",
+        "hair on head",
+        "clothing or accessories",
+        "hands with fingers"
+    ],
+    "pottedplant": [
+        "a plant with roots in a container made of materials such as ceramic, plastic, or wood",
+        "soil visible in the container",
+        "a visible pot or planter",
+        "greenery or flowers visible above the pot",
+        "varying shapes and sizes of leaves and flowers",
+        "sometimes decorative elements like stones or moss around the base of the plant."
+    ],
+    "sheep": [
+        "four-legged mammal",
+        "woolly coat",
+        "white, black, or brown color",
+        "curved or spiral horns",
+        "fluffy or rough texture of the fur",
+        "relatively large size",
+        "may have a distinctive grazing posture"
+    ],
+    "sofa": [
+        "upholstered furniture",
+        "typically rectangular or L-shaped",
+        "cushioned seating area",
+        "back and armrests",
+        "legs or a base that supports the sofa",
+        "often has pillows or cushions",
+        "variety of colors, patterns, and fabrics"
+    ],
+    "train": [
+        "long, connected cars on a rail track",
+        "metal body with windows and doors",
+        "wheels and a set of rails beneath",
+        "a locomotive at the front or rear",
+        "headlights and taillights",
+        "a variety of colors and designs depending on the country and type of train",
+        "possible presence of cargo or passenger cars"
+    ],
+    "tvmonitor": [
+        "electronic device",
+        "black or grey",
+        "a large, rectangular screen",
+        "a thinner frame compared to a television",
+        "often lacks a stand or mount",
+        "may have a built-in webcam or microphone",
+        "often lacks speakers",
+        "input ports for connecting to a computer",
+        "may have adjustable height and tilt"
+    ]
+}
