@@ -1,0 +1,182 @@
+{
+  "aeroplane": [
+    "wings that are fixed or foldable",
+    "tail section with horizontal and vertical stabilizers",
+    "fuselage with a cockpit and passenger or cargo compartment",
+    "engines, either propellers or jet engines",
+    "landing gear, including wheels or pontoons",
+    "control surfaces, such as ailerons, elevators, and rudder",
+    "windows and doors"
+  ],
+  "bicycle": [
+    "two wheels",
+    "metal frame",
+    "pedals",
+    "handlebars",
+    "a saddle or seat",
+    "chains or gears",
+    "brakes",
+    "tires with treads",
+    "possibly accessories like baskets or water bottles"
+  ],
+  "bird": [
+    "feathers",
+    "beak or bill",
+    "wings",
+    "tail",
+    "legs and feet",
+    "distinctive head and body shape",
+    "varied plumage colors and patterns"
+  ],
+  "boat": [
+    "a watercraft with a distinctive hull shape",
+    "various colors, often with reflective or shiny surfaces",
+    "presence of sails, motors, or oars for propulsion",
+    "a cockpit or cabin for passengers or crew",
+    "a deck or seating area",
+    "ropes, anchors, or other nautical features",
+    "floating on or partly in water"
+  ],
+  "bottle": [
+    "a hollow container",
+    "typically cylindrical or spherical in shape",
+    "made of glass, plastic, or other materials",
+    "a narrow neck",
+    "a cap or cork to seal the opening",
+    "labels or writing on the surface",
+    "certain size and proportions"
+  ],
+  "bus": [
+    "large, rectangular vehicle",
+    "wheels and tires",
+    "windows along the sides",
+    "doors for entry and exit",
+    "a distinct front grille and headlights",
+    "a large, flat roof",
+    "a logo or signage indicating the bus company or route"
+  ],
+  "car": [
+    "four wheels",
+    "a body with a windshield, doors, and a trunk",
+    "headlights and a grille at the front",
+    "a license plate",
+    "a curved or angular shape",
+    "metallic colors such as silver, black, white, or red",
+    "a steering wheel, seats, and a dashboard inside",
+    "wheels with rims and tires"
+  ],
+  "cat": [
+    "four-legged, carnivorous mammal",
+    "fur that can be various colors and patterns (solid, striped, or spotted)",
+    "pointy ears",
+    "whiskers around the mouth and nose",
+    "triangular-shaped face",
+    "tail that can be long and slender or short and fluffy",
+    "eyes that can be green, gold, blue, or copper in color"
+  ],
+  "chair": [
+    "a piece of furniture",
+    "typically has four legs",
+    "a backrest and a seat",
+    "usually designed for a single person to sit",
+    "can be made of various materials such as wood, metal, or plastic",
+    "may have armrests",
+    "may have cushions or upholstery"
+  ],
+  "cow": [
+    "four-legged large mammal",
+    "typically black and white or brown in color",
+    "distinctive horns or ears",
+    "large body with a prominent belly",
+    "a notable head with a muzzle",
+    "a long tail",
+    "hooves on its feet"
+  ],
+  "diningtable": [
+    "flat, horizontal surface",
+    "typically rectangular or oval in shape",
+    "legs or pedestal supporting the surface",
+    "often made of wood, metal, or glass",
+    "may have chairs or benches around it",
+    "may have objects such as plates, utensils, or centerpieces on its surface"
+  ],
+  "dog": [
+    "four-legged mammal",
+    "fur or hair of various lengths and colors",
+    "snout or muzzle",
+    "floppy or erect ears",
+    "tail that can be long or short, fluffy or thin",
+    "paws with claws",
+    "varied sizes and shapes depending on the breed"
+  ],
+  "horse": [
+    "large, four-legged animal",
+    "brown, black, white, grey, or various other coat colors",
+    "long neck and head with a muzzle",
+    "ears that are pointed and alert",
+    "flowing mane and tail",
+    "hooves on the feet"
+  ],
+  "motorbike": [
+    "two wheels",
+    "a saddle or seat for the rider",
+    "handlebars",
+    "a fuel tank",
+    "an engine or exhaust pipe",
+    "a headlight or taillight",
+    "a license plate",
+    "a kickstand or center stand"
+  ],
+  "person": [
+    "two eyes, a nose, and a mouth",
+    "upright posture on two legs",
+    "arms and hands with fingers",
+    "a head with hair (in most cases)",
+    "facial features and expressions",
+    "clothes and accessories",
+    "a variety of skin tones and body shapes",
+    "shoes or footwear"
+  ],
+  "pottedplant": [
+    "a plant with roots contained in a container",
+    "colorful or green leaves",
+    "flowers, buds, or fruits depending on the type of plant",
+    "a distinct pot or container with a visible rim",
+    "soil or growing medium visible in the pot",
+    "potential presence of decorative elements like ornaments or tags"
+  ],
+  "sheep": [
+    "four-legged mammal",
+    "white, brown, or black woolly coat",
+    "rounded body with a bulky torso",
+    "curved horns (in some breeds)",
+    "a distinctive head shape with a black face and a short, stubby tail"
+  ],
+  "sofa": [
+    "upholstered furniture",
+    "rectangular or L-shaped",
+    "cushions or pillows",
+    "legs or a base that raises it off the floor",
+    "armrests",
+    "a backrest or back support",
+    "often found indoors in a living room or seating area"
+  ],
+  "train": [
+    "large, elongated vehicle with multiple connected cars",
+    "typically brown, silver, or black in color",
+    "wheels and rails",
+    "locomotive engine at the front",
+    "windows and doors on the cars",
+    "cargo or passenger compartments",
+    "may have a distinctive horn or locomotive shape"
+  ],
+  "tvmonitor": [
+    "electronic device",
+    "black or grey",
+    "a large, rectangular screen",
+    "a stand or mount to support the screen",
+    "no built-in speakers or tuners",
+    "input ports for connecting to other devices such as a computer",
+    "thinner and lighter than a television"
+  ]
+}
