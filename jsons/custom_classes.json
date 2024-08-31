@@ -1,0 +1,44 @@
+{
+  "background or trash": [
+    "unclear or blurry image",
+    "lacks distinct shape or form",
+    "random patterns or textures",
+    "unrecognizable objects or debris",
+    "lacks centralized focus",
+    "color schemes that don't match the main subject"
+  ],
+  "rigid plastic": [
+    "a distinct shape",
+    "smooth surface texture",
+    "vibrant colors or transparent",
+    "reflections or glares",
+    "clean edges and straight lines",
+    "a uniform material appearance"
+  ],
+  "cardboard": [
+    "a flat, stiff, and rectangular or square shape",
+    "brown or kraft paper color, but can also be white or other colors",
+    "a corrugated or smooth surface",
+    "folds or creases that indicate its flexibility",
+    "possible presence of printed labels, text, or images",
+    "a rough or porous texture"
+  ],
+  "metal": [
+    "shiny or reflective surface",
+    "metallic color (silver, gold, copper, bronze, etc.)",
+    "smooth or textured appearance",
+    "presence of bolts, screws, or other fasteners",
+    "geometric shapes or patterns (e.g. mesh, grid)",
+    "rust or corrosion signs",
+    "reflected light or glare"
+  ],
+  "soft plastic": [
+    "flexible or bendy appearance",
+    "transparent, translucent, or opaque",
+    "various colors and shades",
+    "smooth or textured surface",
+    "rounded edges and curves",
+    "lack of sharp corners or defined shapes",
+    "may be molded into various forms or shapes"
+  ]
+}
