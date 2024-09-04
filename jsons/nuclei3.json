@@ -1,0 +1,19 @@
+{
+    "background": [
+        "lacks cellular structure or organelles",
+        "often blurred or out of focus",
+        "uniform or varied in color and texture",
+        "may include equipment, surfaces, or other objects",
+        "does not have a distinct border or shape",
+        "typically fills a large area of the image"
+    ],
+    "nuclei in cells": [
+        "spherical or oval shape",
+        "bright or high-contrast region within a cell",
+        "typically located near the center of the cell",
+        "darker or more opaque than surrounding cell material",
+        "may appear as a distinct, membrane-bound organelle",
+        "often has a prominent nucleolus (region of high RNA synthesis)",
+        "may be surrounded by a nuclear envelope or membrane"
+    ]
+}
