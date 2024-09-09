@@ -1,0 +1,833 @@
+{
+    "background": [
+        "lack of distinct objects or subjects",
+        "blurred or out-of-focus area",
+        "uniform color or texture",
+        "absence of edges or contours",
+        "often located behind or surrounding the main subject"
+    ],
+    "candy": [
+        "colorfully wrapped",
+        "small size",
+        "irregular shape",
+        "sugary coating",
+        "transparent or translucent",
+        "shiny surface",
+        "stacked or scattered",
+        "surrounded by other candies"
+    ],
+    "egg tart": [
+        "a small, round pastry",
+        "a flaky crust",
+        "a creamy filling",
+        "a smooth, rounded surface",
+        "a golden-yellow color",
+        "a small, circular shape",
+        "often arranged on a plate or tray",
+        "may be topped with powdered sugar",
+        "a characteristic crack on the surface of the filling"
+    ],
+    "french fries": [
+        "long, thin strips of food",
+        "yellow or golden color",
+        "crispy appearance",
+        "often served in a container or on a plate",
+        "may have seasonings or toppings such as salt, pepper, ketchup, or cheese",
+        "often accompanied by other foods like burgers or sandwiches"
+    ],
+    "chocolate": [
+        "Brown color",
+        "Solid or semi-solid form",
+        "Shiny or smooth surface",
+        "Rectangular or square shape (boxed chocolates)",
+        "Round or irregular shape (individual chocolates)",
+        "Packaging with wrappers, labels, or containers",
+        "Possible nuts, fruit, or other mix-ins on top or embedded within"
+    ],
+    "biscuit": [
+        "baked goods",
+        "brown or golden color",
+        "rounded or rectangular shape",
+        "crispy appearance",
+        "cracked or glazed surface",
+        "presence of sugar or other toppings"
+    ],
+    "popcorn": [
+        "small, irregular shapes",
+        "usually yellow or white",
+        "puffy or fluffy appearance",
+        "often in a bowl or container",
+        "may have seasonings or toppings",
+        "kernels may be partially visible"
+    ],
+    "pudding": [
+        "creamy or gelatinous texture",
+        "various colors depending on flavor (e.g., white, brown, pink)",
+        "often served in a cup, bowl, or ramekin",
+        "can be topped with whipped cream, fruit, nuts, or sprinkles",
+        "can be smooth or have a chunky consistency",
+        "may have a distinct shape or mold (e.g., pudding pop, cube-shaped)"
+    ],
+    "ice cream": [
+        "frozen dessert",
+        "various colors and flavors",
+        "scoop or cone shape",
+        "creamy texture",
+        "toppings such as nuts, sprinkles, or fruit",
+        "serving container or cone",
+        "melting or drips"
+    ],
+    "cheese butter": [
+        "creamy yellow or white color",
+        "smooth, spreadable texture",
+        "packaged in a rectangular or square shape",
+        "wrapped in plastic or aluminum foil",
+        "may have a label or branding on the packaging",
+        "can be served on bread, crackers, or other baked goods"
+    ],
+    "cake": [
+        "sweet baked dessert",
+        "typically round in shape",
+        "multiple layers or a single thick layer",
+        "frosted or glazed with colored or white icing",
+        "decorated with toppings such as fruits, nuts, or candies",
+        "served on a plate or cake stand",
+        "often has candles on top"
+    ],
+    "wine": [
+        "a bottle with a narrow neck and curved body",
+        "a cork or screw top",
+        "a wine label on the bottle",
+        "a wine glass nearby",
+        "a liquid with a red, white, or sparkling color inside the bottle",
+        "a wine opener or corkscrew nearby"
+    ],
+    "milkshake": [
+        "a cold drink",
+        "thick and creamy liquid",
+        "a straw",
+        "whipped cream on top",
+        "flavorings such as chocolate, strawberry, or vanilla",
+        "a glass or cup with a rounded shape"
+    ],
+    "coffee": [
+        "Brown or dark brown liquid",
+        "Contained in a cup or mug",
+        "May have cream, foam, or crema on top",
+        "Possibly with sugar, creamer, or other additives nearby",
+        "Could be served hot or iced",
+        "Often has a distinctive aroma or steam rising from it"
+    ],
+    "juice": [
+        "transparent or semi-transparent liquid",
+        "contained in a bottle, carton, or glass",
+        "colorful or natural color of the fruit/vegetable",
+        "possibly with ice cubes or garnishes like lemon slices",
+        "label or branding on the packaging",
+        "a straw or cap on the bottle"
+    ],
+    "milk": [
+        "Liquid or creamy texture",
+        "White or light-colored",
+        "Packaged in a bottle, carton, or jug",
+        "Label or branding on the packaging",
+        "Pouring or being poured from a container",
+        "Accompanied by a cereal bowl or other breakfast items"
+    ],
+    "tea": [
+        "a cup or mug",
+        "a liquid of various colors (e.g., brown, green, black, yellow)",
+        "steam rising from the cup",
+        "a tea bag or loose leaves",
+        "a spoon or stirrer",
+        "a saucer or plate",
+        "a tea infuser",
+        "Optional: milk, sugar, honey, or lemonadded to the tea"
+    ],
+    "almond": [
+        "small, oval-shaped nut",
+        "brown or beige color",
+        "smooth surface",
+        "single groove or ridge running along the length of the nut",
+        "pointed tip at one end"
+    ],
+    "red beans": [
+        "small, irregular shape",
+        "red or reddish-pink color",
+        "seed-like appearance",
+        "often found in clusters or groups",
+        "shiny or smooth surface"
+    ],
+    "cashew": [
+        "a kidney-shaped or curved nut",
+        "white, beige, or brown in color",
+        "a double shell that splits open when roasted",
+        "a single cashew kernel inside the shell",
+        "smooth and creamy surface",
+        "a distinctive curve and twist in the shape"
+    ],
+    "dried cranberries": [
+        "small, chewy, and wrinkly",
+        "dark red or pinkish color",
+        "oval or round shape",
+        "dry and shriveled appearance",
+        "may be clustered together or scattered individually"
+    ],
+    "soy": [
+        "a small, seed-like shape",
+        "pale yellow or brown color",
+        "often stored in a container or bag",
+        "may be surrounded by other ingredients or seasonings",
+        "could be part of a larger dish or meal"
+    ],
+    "walnut": [
+        "A rounded or oval shape",
+        "Brown color",
+        "Hard, rough, and smooth shell",
+        "A clear ridge or seam that runs around the middle",
+        "Typically, one half is slightly larger than the other half",
+        "A edible kernel inside the shell"
+    ],
+    "peanut": [
+        "small, oval or round shape",
+        "brown, tan, or reddish-brown color",
+        "smooth surface",
+        "often seen in shells or clusters",
+        "small size, usually around 1-2 cm in length"
+    ],
+    "egg": [
+        "oval or round shape"
+    ],
+    "apple": [
+        "round or oval shape",
+        "red, green, yellow, or other colors",
+        "smooth skin",
+        "stem attached to the top",
+        "leaf or leaves attached to the stem",
+        "flesh inside when cut"
+    ],
+    "date": [
+        "small, oval or elliptical",
+        "brown or reddish-brown",
+        "single seed in the center",
+        "smooth or wrinkled skin",
+        "often found in clusters or bunches",
+        "may have a small stem attached"
+    ],
+    "apricot": [
+        "oval or round shape",
+        "orange or yellow skin",
+        "smooth skin",
+        "a single pit or stone in the center",
+        "flesh that is juicy and sweet",
+        "a small stem attached to the top"
+    ],
+    "avocado": [
+        "green or ripe-yellow skin",
+        "oval or pear-shaped",
+        "smooth, but slightly bumpy skin",
+        "a small stem attached to the top of the fruit",
+        "creamy or green flesh inside",
+        "a single large seed in the center"
+    ],
+    "banana": [
+        "Yellow or green color",
+        "Long, curved shape",
+        "Smooth, non-textured skin",
+        "Pointed tip at one end and a small stem at the other",
+        "May have brown spots or patches",
+        "Typically grows in clusters",
+        "Can appear whole, sliced, or peeled"
+    ],
+    "strawberry": [
+        "small to medium-sized fruit",
+        "bright red color",
+        "heart-shaped appearance",
+        "seeds visible on the surface",
+        "green leaves attached to the top"
+    ],
+    "cherry": [
+        "small, round or heart-shaped fruit",
+        "typically red, but can be yellow, green, or purple",
+        "shiny skin",
+        "a single seed in the center",
+        "a stem attached to the top"
+    ],
+    "blueberry": [
+        "small, round or oval shape",
+        "purple or blue color",
+        "smooth, glossy surface",
+        "tiny seeds on the surface",
+        "often shown in clusters or bunches",
+        "may have a stem attached"
+    ],
+    "raspberry": [
+        "small, plump, and typically red or yellowish in color",
+        "aggregate fruit with multiple tiny seeds",
+        "hollow center",
+        "delicate and tender texture",
+        "often shown with green leaves or stems"
+    ],
+    "mango": [
+        "yellow, orange, red, or green skin",
+        "oval or round shape",
+        "smooth skin with small bumps or wrinkles",
+        "a prominentstem end",
+        "a slight indentation on the top",
+        "a juicy pulp with a pit or stone in the center"
+    ],
+    "olives": [
+        "small, oval-shaped fruits",
+        "green or black color",
+        "often clustered on a branch",
+        "a single pit or stone in the center of each fruit",
+        "a wrinkled or smooth skin"
+    ],
+    "peach": [
+        "rounded or oval shape",
+        "yellow or orange skin, often with a red blush",
+        "fuzzy skin",
+        "a prominent stem end",
+        "a sweet and juicy appearance"
+    ],
+    "lemon": [
+        "yellow or greenish-yellow color",
+        "oval or spherical shape",
+        "smooth, thick skin",
+        "a stem end where it was connected to the tree",
+        "a bulge or nipple on the opposite end",
+        "a sour or citrusy appearance"
+    ],
+    "pear": [
+        "typically pear-shaped",
+        "green, yellow, brown, or red skin",
+        "smooth skin or some russeting",
+        "a distinct stem end",
+        "a rounded bottom end",
+        "a single seed core in the center"
+    ],
+    "fig": [
+        "small, round or oval shape",
+        "brown or purple skin color",
+        "a small stem attached to the top",
+        "soft, delicate flesh or a split open showing seeds",
+        "typically small size, around 1-3 inches in diameter"
+    ],
+    "pineapple": [
+        "tropical fruit",
+        "prickly, tough skin",
+        "typically yellow or golden yellow",
+        "cylindrical shape with a tough, leafy top",
+        "segmented, ring-like pattern on the skin",
+        "juicy, sweet flesh",
+        "crown of leaves at the top"
+    ],
+    "grape": [
+        "purple, green, red, or yellow skin",
+        "small, round, oval, or elliptical shape",
+        "shiny or matte surface",
+        "attached to a stem or surrounded by leaves",
+        "often found in clusters or bunches"
+    ],
+    "kiwi": [
+        "small, oval-shaped fruit",
+        "brown, fuzzy skin",
+        "green, juicy flesh",
+        "small, black seeds ",
+        "typically shown as a whole fruit or sliced in half"
+    ],
+    "melon": [
+        "round or oval shape",
+        "green, yellow, orange, or white skin",
+        "netted or smooth surface",
+        "thick, fleshy rind",
+        "juicy pulp and seeds inside",
+        "stem end where it was plucked from the vine"
+    ],
+    "orange": [
+        "spherical or slightly oval shape",
+        "orange color",
+        "thick, smooth skin",
+        "segments or \"wedges\" visible on the surface",
+        "stem end or leafy top",
+        "juice vesicles visible when peeled"
+    ],
+    "watermelon": [
+        "A large, rounded or oval fruit with a smooth, green rind",
+        "A yellow or white spot on one end, indicating the underside",
+        "A striped or mottled pattern on the rind",
+        "A vibrant green or white color",
+        "A slightly soft and round shape",
+        "Often displayed whole, sliced, or in wedges"
+    ],
+    "steak": [
+        "thick, solid cut of meat ",
+        "often browned or seared on the outside",
+        "can be cooked to various levels of doneness (rare, medium-rare, etc.)",
+        "typically served on a plate or cutting board",
+        "may be accompanied by sides, sauces, or garnishes",
+        "can be identified by its marbling, grain, or texture"
+    ],
+    "pork": [
+        "type of meat",
+        "pale pink to dark red color",
+        "can be presented in various cuts (e.g. chops, roast, ground)",
+        "may have fat layers or marbling",
+        "can be cooked or raw",
+        "often served with a browned crust or seasonings"
+    ],
+    "chicken duck": [
+        "feathered body",
+        "beak or bill",
+        "legs and feet",
+        "wings",
+        "distinctive plumage colors and patterns",
+        "webbed feet (for ducks)",
+        "wattle or comb on the head (for chickens)"
+    ],
+    "sausage": [
+        "elongated, cylindrical shape",
+        "red, pink, brown, or yellow color",
+        "usually made of meat (pork, chicken, beef, etc.)",
+        "may be linked or coil-shaped",
+        "often served on a plate or in a bun",
+        "can be sliced or whole",
+        "may have a casing or wrapper",
+        "often accompanied by condiments or toppings"
+    ],
+    "fried meat": [
+        "a cooked and browned piece of meat",
+        "varying shapes and sizes depending on the type of meat",
+        "often served on a plate or stick",
+        "may have visible oil or sauce",
+        "may be surrounded by garnishes or sides",
+        "crispy exterior and juicy interior"
+    ],
+    "lamb": [
+        "young sheep",
+        "fluffy white or light brown fur",
+        "curved horns",
+        "large, dark eyes",
+        "small size compared to adult sheep",
+        "may be standing or sitting on all fours",
+        "may have a tail and ears that are relatively small"
+    ],
+    "sauce": [
+        "liquid or semi-liquid consistency",
+        "various colors depending on the type of sauce (e.g. dark brown for soy sauce, red for tomato sauce, etc.)",
+        "poured or drizzled over food",
+        "contained in a bottle or container",
+        "label or branding on the container",
+        "a utensil, such as a spoon or brush, used to apply the sauce"
+    ],
+    "crab": [
+        "crustacean with a hard outer shell",
+        "eight legs and two claws",
+        "oval-shaped body",
+        "often blue, green, or red in color",
+        "eyes on stalks",
+        "a distinctive sideways movement"
+    ],
+    "fish": [
+        "aquatic animal",
+        "scales or fins",
+        "gills for breathing",
+        "diverse range of colors and patterns",
+        "varied shapes and sizes",
+        "swim bladder for buoyancy",
+        "possible presence of water or aquatic environment"
+    ],
+    "shellfish": [
+        "typically found in seafood dishes",
+        "hard, outer shell that protects the soft body",
+        "various shapes, such as spiral, round, or elongated",
+        "often white, brown, or gray in color",
+        "may have claws, legs, or other appendages",
+        "can be open or closed, depending on the state of the shell",
+        "may be cooked or raw, and served with various seasonings or sauces."
+    ],
+    "shrimp": [
+        "small, elongated crustacean",
+        "pink, white, or brown in color",
+        "long, slender body",
+        "multiple legs",
+        "claws",
+        "antennae",
+        "segmented shell",
+        "curved tail"
+    ],
+    "soup": [
+        "liquid or semi-liquid consistency",
+        "often served in a bowl",
+        "variety of colors and textures depending on ingredients",
+        "may have ingredients visible on the surface or within the liquid",
+        "steam rising from the surface (if hot)",
+        "may have garnishes or toppings such as herbs, leaves, or croutons",
+        "presence of a spoon or other utensils for eating"
+    ],
+    "bread": [
+        "loaf shape",
+        "brown, golden, or white color",
+        "crusty surface",
+        "soft interior",
+        "slices or cut marks",
+        "often placed on a plate, table, or countertop",
+        "may have toppings or spreads such as butter, jam, or cheese"
+    ],
+    "corn": [
+        "yellow, white, or bi-colored kernels",
+        "thick, fleshy stalk",
+        "leafy green husks",
+        "cylindrical or oval shape",
+        "vertical rows of kernels",
+        "possibly with butter, salt, or other seasonings"
+    ],
+    "hamburg": [
+        "a cooked patty of ground meat (usually beef, but can be other types)",
+        "a round bun ",
+        "cheese, lettuce, tomato, onion, pickles, and/or other toppings",
+        "condiments like ketchup, mustard, or mayonnaise",
+        "often served on a plate or wrapped in paper",
+        "may have a side of fries, salad, or other accompaniments"
+    ],
+    "pizza": [
+        "round, oval, or rectangle shape",
+        "crust made of bread dough",
+        "toppings such as cheese, vegetables, meats, and sauces",
+        "melted cheese ",
+        "various colors depending on the toppings"
+    ],
+    "hanamaki baozi": [
+        "steamed bun",
+        "white, soft, and fluffy texture",
+        "usually round in shape",
+        "sometimes with a fold or pleat on top",
+        "may have a variety of fillings such as meat, vegetables, or sweet fillings",
+        "often served on a steamer basket or plate"
+    ],
+    "wonton dumplings": [
+        "boiled or pan-fried dumplings",
+        "wrapping made of thin dough",
+        "typically served in soup or with sauce",
+        "fillings such as pork, shrimp, or vegetables",
+        "small, irregular shape",
+        "pleated or pinched wrapping ",
+        "white or off-white color of the dough"
+    ],
+    "pasta": [
+        "long, thin, cylindrical shape",
+        "white, yellow, or brown color",
+        "varying lengths and thicknesses",
+        "straight or curved shape",
+        "often served with sauces, cheese, or other ingredients",
+        "can be cooked al dente or soft",
+        "may be entwined together or separated on a plate"
+    ],
+    "noodles": [
+        "long, thin, and cylindrical shape",
+        "various colors such as white, yellow, or brown",
+        "often served in a bowl or on a plate",
+        "may be accompanied by sauce or seasoning",
+        "can be served hot or cold",
+        "may be shown with chopsticks or a fork",
+        "often has a distinct texture and pattern"
+    ],
+    "rice": [
+        "white or off-white color",
+        "small, granular shape",
+        "often served in a bowl or on a plate",
+        "can be cooked with various ingredients or seasonings",
+        "may be surrounded by other dishes or ingredients",
+        "can be steamed, boiled, or fried",
+        "has a distinct texture"
+    ],
+    "pie": [
+        "circular or oval shape",
+        "crust made of pastry or dough",
+        "various fillings such as fruits, nuts, or meats",
+        "often served as a dessert or snack",
+        "may have a crimped or decorated edge",
+        "can be topped with whipped cream or other garnishes"
+    ],
+    "tofu": [
+        "white or off-white color",
+        "soft and spongy texture",
+        "block or cube shape",
+        "firm or silky appearance",
+        "often served in a dish or plate",
+        "can be cubed, sliced, or crumbled"
+    ],
+    "eggplant": [
+        "purple, green, or white skin",
+        "elongated or oval shape",
+        "glossy or matte finish",
+        "a stem attached to the top",
+        "some eggplants have ridges or stripes on the skin"
+    ],
+    "potato": [
+        "brown, yellow, red, purple, or white skin",
+        "oval or round shape",
+        "smooth or rough skin",
+        "\"eyes\" or small buds on the surface",
+        "no leaves or stem unless shown as a whole plant",
+        "varying sizes"
+    ],
+    "garlic": [
+        "a small, bulbous shape",
+        "papery, white or off-white skin",
+        "cloves with a pointed tip",
+        "a strong, pungent smell",
+        "often hung or tied in a bundle"
+    ],
+    "cauliflower": [
+        "A white or light-colored vegetable",
+        "A large, round or oval-shaped head",
+        "Consisting of many small, tightly packed florets",
+        "Leafy greens attached to the stem",
+        "A thick, white or light-colored stem",
+        "May be partially covered with leaves or stem"
+    ],
+    "tomato": [
+        "typically red, sometimes yellow, green, or purple",
+        "rounded or oval shape",
+        "smooth skin, possibly with small blemishes",
+        "a stem attached to the top",
+        "glossy appearance",
+        "often found in plant or kitchen settings"
+    ],
+    "kelp": [
+        "brown or greenish-brown seaweed",
+        "long, leaf-like structures",
+        "wavy or ruffled edges",
+        "attached to a rock or reef",
+        "floating in the water",
+        "can be dried and shredded"
+    ],
+    "seaweed": [
+        "green or brown slimy sheets or strands",
+        "wavy, curly, or feathery shapes",
+        "often floating or clinging to rocks in water",
+        "can be dried and packaged in sheets or flakes",
+        "may have a distinct wrinkled or bubbly texture"
+    ],
+    "spring onion": [
+        "A bulbous base with green, hollow, and tubular leaves",
+        "The base is white or light-colored, while the leaves are green",
+        "The plant is typically small to medium in size",
+        "No flowers or seeds are visible",
+        "It may be chopped or sliced, revealing the layered interior"
+    ],
+    "rape": [
+        "bright yellow flowers or green leaves ",
+        "a tall, sturdy stem ",
+        "a dense, leafy bunch or a single, large leaf ",
+        "a bright green or slightly yellowish color ",
+        "often found in a garden or farm setting ",
+        "may be surrounded by other vegetables or flowers"
+    ],
+    "ginger": [
+        "a root or rhizome",
+        "tan, brown, or white",
+        "irregular shape with nodes or joints",
+        "rough, bumpy, or wrinkled skin",
+        "thin, papery skin, often scraped or slicedreveal the yellowish-white inner flesh",
+        "Can be found in whole, sliced, or ground form"
+    ],
+    "okra": [
+        "green, tender pods",
+        "typically 3-5 inches long",
+        "tapered, finger-like shape",
+        "ridged, hairy, or smooth skin",
+        "small, white, tender seeds inside"
+    ],
+    "lettuce": [
+        "leafy green vegetable",
+        "curled or flat leaves",
+        "varying shades of green",
+        "delicate and crisp appearance",
+        "may be loose or bunched together",
+        "can have a white or light green stem"
+    ],
+    "pumpkin": [
+        "orange or yellowish-orange color",
+        "round or oval shape",
+        "hard and smooth skin",
+        "ridges or grooves on the surface",
+        "stem or vine attached to the top",
+        "often displayed during holidays like Halloween"
+    ],
+    "cucumber": [
+        "long, cylindrical shape",
+        "green color",
+        "smooth, glossy skin",
+        "small, ridged, or rounded ends",
+        "possibly with leaves or stems attached"
+    ],
+    "white radish": [
+        "a root vegetable ",
+        "white or pale yellow color",
+        "cylindrical or oval shape",
+        "smooth skin ",
+        "sometimes has green leaves attached ",
+        "can be seen sliced, chopped, or whole"
+    ],
+    "carrot": [
+        "orange color",
+        "long, thin, and tapering shape",
+        "leafy green top",
+        "smooth surface",
+        "rounded tip at one end",
+        "sometimes with green leaves attached"
+    ],
+    "asparagus": [
+        "long, thin, and spear-like shape",
+        "green or purple color",
+        "tender tips",
+        "slightly woody stalks",
+        "leaves or scales",
+        "arranged in a bundle or single spear"
+    ],
+    "bamboo shoots": [
+        "a type of vegetable",
+        "long and cylindrical shape",
+        "usually light green or yellowish in color",
+        "nodes or rings on the surface",
+        "often surrounded by leaves or husks",
+        "can be solo or in a bundle"
+    ],
+    "broccoli": [
+        "green or purple-green color",
+        "tree-like shape with a thick stalk and florets",
+        "tightly packed buds that resemble tiny trees",
+        "leafy green leaves at the base",
+        "an edible flower head that is usually round or oval in shape"
+    ],
+    "celery stick": [
+        "green or pale green color",
+        "long, thin, and crunchy stalk",
+        "often tied with a string or wrapped with a leaf",
+        "leaves at the top, usually curled or twisted",
+        "segmented stalk with a defined node",
+        "sometimes with a white or light-colored base"
+    ],
+    "cilantro mint": [
+        "green, leafy, and feathery",
+        "triangular or lance-shaped leaves with a pointed tip",
+        "stems are usually thin and branched",
+        "often arranged in a bunch or bouquet",
+        "may have a few flowers or buds",
+        "typically fresh and crisp-looking",
+        "may be accompanied by other herbs or garnishes"
+    ],
+    "snow peas": [
+        "pale green or white color",
+        "flat and tender pods",
+        "typically sold in bunches or bundles",
+        "small to medium size",
+        "tender and edible pod",
+        "usually fresh and not canned or cooked"
+    ],
+    "cabbage": [
+        "green or red-purple color",
+        "round or oval shape",
+        "dense, layered leaves",
+        "crinkled or wavy leaf texture",
+        "compact, circular arrangement of leaves"
+    ],
+    "bean sprouts": [
+        "small, sprouted seeds ",
+        "long, thin stems",
+        "small, tender leaves or no leaves at all",
+        "often found in clusters or bundles",
+        "may be surrounded by water or in a dish"
+    ],
+    "onion": [
+        "Bulbous shape",
+        "Layered, papery skin",
+        "Typically white, yellow, or red color",
+        "Can be whole, sliced, diced, or chopped",
+        "May have green shoots or roots attached"
+    ],
+    "pepper": [
+        "typically green, red, yellow, or orange in color",
+        "glossy exterior",
+        "bulbous or elongated shape",
+        "often seen with a stem attached",
+        "may have small white or black seeds visible",
+        "varying levels of ripeness, from green and unripe to brightly colored and ripe."
+    ],
+    "green beans": [
+        "long, slender, and cylindrical shape",
+        "typically green in color, but can be yellow, purple, or white",
+        "attached to a stem or branch",
+        "may have visible ridges or lines on the surface",
+        "may be grouped together with other beans"
+    ],
+    "French beans": [
+        "long, green, and slender pod",
+        "typically grows in clusters",
+        "small, white, or light green flowers",
+        "smooth, tender skin",
+        "can be straight or slightly curved",
+        "can be seen bundled together"
+    ],
+    "king oyster mushroom": [
+        "fan-shaped or oyster-shaped cap",
+        "white, cream, or light grey cap color",
+        "white or cream-colored gills",
+        "thick, meaty stem",
+        "sizes ranging from small to large",
+        "often found in clusters"
+    ],
+    "shiitake": [
+        "a type of mushroom",
+        "typically brown or tan in color",
+        "umbrella-shaped cap with wavy edges",
+        "cap ranges from 2-4 inches in diameter",
+        "stem is usually white or light brown",
+        "stems are typically 1-2 inches long and about 0.25 inches thick"
+    ],
+    "enoki mushroom": [
+        "Long, thin stems",
+        "White or cream-colored",
+        "Delicate, thread-like appearance",
+        "Small, round caps",
+        "Grows in clusters",
+        "Has a crunchy, firm texture"
+    ],
+    "oyster mushroom": [
+        "fan-shaped or oyster-shaped cap",
+        "white, cream, or light gray color",
+        "smooth, velvety surface",
+        "small to medium size",
+        "growing on trees, stumps, or other decaying wood",
+        "short stem or no stem at all"
+    ],
+    "white button mushroom": [
+        "small to medium size",
+        "white cap",
+        "rounded cap shape",
+        "short stem",
+        "smooth cap surface",
+        "delicate gills under the cap"
+    ],
+    "salad": [
+        "mixed greens (lettuce, spinach, arugula, etc.) ",
+        "various vegetables and fruits (tomatoes, cucumbers, carrots, avocado, etc.)",
+        "often served in a bowl",
+        "may have a dressing or topping (croutons, cheese, nuts, etc.)",
+        "garnishes like herbs or edible flowers may be present",
+        "can have protein sources like chicken, eggs, or tofu",
+        "can have crunchy elements like croutons or crispy fried onions"
+    ],
+    "other ingredients": [
+        "brightly colored",
+        "small, bite-sized pieces",
+        "shiny or glossy appearance",
+        "varied shapes (e.g., spherical, cubical, cylindrical)",
+        "golden-brown crust",
+        "circular shape",
+        "egg custard filling",
+        "pastry edges"
+    ]
+}

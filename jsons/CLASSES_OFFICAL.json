@@ -1,0 +1,43 @@
+{
+    "background": [
+        "occupies the area behind or surrounding the main subjects",
+        "often out of focus or blurry compared to the main subjects",
+        "can be a natural environment (e.g. sky, trees, landscape) or a man-made environment (e.g. walls, floors, buildings)",
+        "lacks distinct features or objects that would distract from the main subjects",
+        "often has subtle color gradations or textures that provide depth cues"
+    ],
+    "fire extinguisher": [
+        "a cylindrical or rectangular tank",
+        "a hose or nozzle attached to the tank",
+        "a handle or grip for carrying",
+        "a pressure gauge on the tank",
+        "a label or tag indicating the type of extinguishing agent",
+        "a distinctive color scheme, often red or silver",
+        "a mounting bracket or stand for attachment to a wall"
+    ],
+    "backpack": [
+        "a bag with straps",
+        "usually made of fabric or nylon",
+        "various colors and patterns",
+        "has zippers, buckles, and pockets",
+        "worn on the back",
+        "can have padding for laptop or other items"
+    ],
+    "drill": [
+        "handheld power tool",
+        "typically yellow, black, or white",
+        "cylindrical or rectangular body",
+        "chuck (clamping device) on the front",
+        "trigger or switch to control the motor",
+        "cord or cordless design",
+        "drill bits or other accessories attached or nearby"
+    ],
+    "rescue randy": [
+        "a person wearing a helmet and a fire-resistant jacket",
+        "a mask or respirator",
+        "a backpack or equipment bag",
+        "a fire hose or other firefighting gear",
+        "reflective strips or bright colors on their clothing",
+        "a serious or focused expression on their face"
+    ]
+}

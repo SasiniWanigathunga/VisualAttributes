@@ -1,0 +1,78 @@
+{
+    "background": [],
+    "building-flooded": [
+        "a structure with walls and a roof",
+        "partially or fully submerged in water",
+        "water level above the ground floor",
+        "possible signs of damage or debris",
+        "reflections of the building in the water",
+        "surrounding areas may be flooded as well"
+    ],
+    "building-non-flooded": [
+        "rectangular or square shape",
+        "upright structure with walls, windows, and doors",
+        "roof of various shapes and colors",
+        "stable structure not partially or fully submerged in water",
+        "may have architectural details such as columns, arches, or facades",
+        "presence of doors, windows, and other structural features",
+        "may have surrounding features like sidewalks, gardens, or parking lots"
+    ],
+    "road-flooded": [
+        "a flooded road or street",
+        "water covering a significant portion of the road",
+        "possible debris or obstacles floating on the water",
+        "disrupted traffic flow or abandoned vehicles",
+        "surrounding buildings or trees partially submerged in water"
+    ],
+    "road-non-flooded": [
+        "straight or curved path",
+        "constructed of asphalt, concrete, or gravel",
+        "free from water or minimal water presence",
+        "may have lane markings, traffic signals, or road signs",
+        "often bounded by curbs, sidewalks, or vegetation",
+        "varying widths and lengths"
+    ],
+    "water": [
+        "transparent or reflective surface",
+        "calm or rippled appearance",
+        "possible presence of waves or ripples",
+        "can be a body of water such as a pool, lake, or ocean",
+        "can be a part of a flooded area such as a road or building",
+        "may show a change in color or texture compared to surrounding surfaces"
+    ],
+    "tree": [
+        "tall, upright structure",
+        "trunk, branches, and leaves",
+        "green or brown color",
+        "varying shapes and sizes",
+        "roots that spread out from the base",
+        "bark texture on the trunk",
+        "seasonal changes like flowers, fruits, or autumn colors"
+    ],
+    "vehicle": [
+        "wheeled transportation with a body and engine",
+        "typically rectangular or oval in shape",
+        "shiny or matte surfaces",
+        "wheels, headlights, and a grille",
+        "doors, windows, and a roof",
+        "bumpers, mirrors, and a license plate",
+        "varies in size, shape, and color"
+    ],
+    "pool": [
+        "rectangular or circular shape",
+        "blue or turquoise color",
+        "water-filled",
+        "surrounding deck or patio",
+        "ladders or stairs for entry and exit",
+        "pool equipment such as filters, pumps, or skimmers",
+        "decorative features like umbrellas, lounge chairs, or inflatables"
+    ],
+    "grass": [
+        "green color",
+        "thin, elongated blades",
+        "uniform or irregular arrangement of blades",
+        "varying lengths and densities",
+        "often found in lawns, parks, or outdoor areas",
+        "can be bent or swayed by wind or other environmental factors"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "others": [
+        "Rust or orange-colored deposits or stains",
+        "Flaking or peeling of metal surfaces",
+        "Pitting or holes in metal surfaces",
+        "Cracks or breaks in metal or material",
+        "Discoloration or staining of surrounding material",
+        "Oxidation or white, chalky substance on metal surfaces",
+        "In severe cases, structural damage or collapse."
+    ],
+    "fair corrosion": [
+        "minimal or slight discoloration on the surface",
+        "no significant flaking or peeling of material",
+        "minor pitting or scratches",
+        "no obvious structural damage or weakening",
+        "surface still retains some of its original shine or luster"
+    ],
+    "poor corrosion": [
+        "minimal rust or discoloration",
+        "no flaking or peeling of material",
+        "slight staining or tarnishing",
+        "minor surface damage or pitting",
+        "no structural damage or weakening of material",
+        "can be easily cleaned or removed",
+        "does not affect functionality or performance"
+    ],
+    "severe corrosion": [
+        "Flaking or peeling of metal surface",
+        "Heavy rust or oxidation",
+        "Cracks or holes in the metal",
+        "Loss of structural integrity",
+        "Reddish or orange color on the metal surface",
+        "Extensive damage or decay of the material",
+        "Exposure of underlying layers or substrate"
+    ]
+}

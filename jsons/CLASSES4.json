@@ -1,0 +1,42 @@
+{
+    "others": [
+        "Steel with fair corrosion: slight rust or discoloration, minor pitting or flaking, but overall structure remains intact",
+        "Steel with poor corrosion: significant rust or discoloration, noticeable pitting or flaking, surface roughening, and possible degradation of structure",
+        "Steel with severe corrosion: heavy rust or destruction of metal, extensive pitting or flaking, significant loss of structural integrity, and possible holes or gaps."
+    ],
+    "steel with fair corrosion": [
+        "signs of rust or oxidation on the surface",
+        "some flaking or peeling of the metal",
+        "discoloration or staining",
+        "minor pitting or roughening of the surface",
+        "still maintains its structural integrity"
+    ],
+    "steel with poor corrosion": [
+        "surface rust covering a small to moderate area",
+        "flakes of rust visible, but not heavily flaking off",
+        "metal surface may have a reddish or orange tint",
+        "corrosion may be unevenly distributed",
+        "some pitting or scratches may be visible",
+        "overall structure still intact, but with visible signs of decay"
+    ],
+    "steel with severe corrosion": [
+        "Thick, flaky, or blistering rust",
+        "Visible damage or holes in the steel surface",
+        "Red or orange rust color",
+        "Corrosion products may be dripping or running down the surface",
+        "Heavy pitting or cratering on the surface",
+        "Loss of structural integrity or deformations",
+        "Thin, uniform rust layer",
+        "No visible damage or holes in the steel surface",
+        "Rust color may be brown or reddish-brown",
+        "Minor corrosion products may be present",
+        "Little to no pitting or cratering on the surface",
+        "Structural integrity is maintained",
+        "Thick rust layer, but not flaking off",
+        "Some visible damage or holes in the steel surface",
+        "Rust color may be dark brown or black",
+        "Corrosion products may be present, but not dripping",
+        "Some pitting or cratering on the surface",
+        "Structural integrity is compromised, but not lost"
+    ]
+}

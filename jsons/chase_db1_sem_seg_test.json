@@ -1,0 +1,19 @@
+{
+    "background of blood vessels in the retinal image": [
+        "branching patterns",
+        "wavy or curvy lines",
+        "varying thickness and color",
+        "connected vessels with junctions",
+        "transparent or semi-transparent appearance",
+        "absence of distinct edges or contours",
+        "subtle texture and lack of sharp features"
+    ],
+    "blood vessels": [
+        "branching or tree-like patterns",
+        "thin, curved or irregularly shaped lines",
+        "varying thickness and brightness",
+        "often brighter or darker than surrounding tissue",
+        "may have a central light reflectance",
+        "may be visible as a network or web-like structure"
+    ]
+}
