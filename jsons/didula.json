@@ -1,0 +1,16 @@
+{
+   "background of nuclei on a slide": [
+      {"color": "sepia", "gradation": "uniform"},
+      {"lighting": "dim", "shadows": "dark"},
+      {"texture": "vague", "organizing": "non"},
+      {"pattern": "random", "repetition": "none"},
+      {"contrast": "low", "intensity": "muted"}
+   ],
+   "nuclei in cells": [
+      {"color": "varied", "gradation": "distinct"},
+      {"lighting": "bright", "shadows": "light"},
+      {"texture": "structured", "organizing": "on"},
+      {"pattern": "complex", "repetition": "present"},
+      {"contrast": "high", "intensity": "strong"}
+   ]
+}

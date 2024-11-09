@@ -1,0 +1,151 @@
+{
+    "background of night photos taken while driving": [
+        "predominantly dark colours ",
+        "blurred or streaked lights ",
+        "illuminated road markings ",
+        "possibly headlights or taillights of cars ",
+        "silhouette of trees or buildings ",
+        " stars or a faint moon  (if visible) "
+    ],
+    "road": [
+        "clearly defined path",
+        "darker surface than surrounding area",
+        "often lined with curbs or markings",
+        "tends to be straight or curved",
+        "may have reflections of light from vehicles ",
+        " interrupted by crosswalks, intersections or entrances ",
+        "sometimes has streetlights or other lighting "
+    ],
+    "sidewalk": [
+        "**Flat, paved surface:** Sidewalks are usually flat and made of concrete or asphalt, contrasting with the road's texture.",
+        "**Narrower width:** Compared to the road, sidewalks are typically narrower.",
+        "**Curbs or edges:** Sidewalks have defined edges, often marked by curbs separating them from the road.",
+        "**Pedestrian traffic:**  If visible, people walking on the path strongly indicate a sidewalk. ",
+        "**Trees or street lights:** Sidewalks often have trees or streetlights planted along their edges.  "
+    ],
+    "building": [
+        " **Structured shape:** Buildings typically have defined vertical and horizontal lines, creating a structured, box-like or multi-faceted form. ",
+        "**Walls and roof:** A clear distinction between a base (walls) and a top (roof) is often visible, even in darkness.",
+        "**Windows:**  Glowing windows are a distinct indicator, particularly at night. Even without light, the shape of windows can be recognized.",
+        "**Height:** Buildings are generally taller than surrounding objects like trees, cars, or street furniture.  ",
+        "**Light sources:**  Artificial light emanating from windows or other building features can make a building stand out against the darker backdrop.",
+        "**Materials:** Depending on the building, textures like bricks, concrete, or glass may reflect light differently from surrounding elements. "
+    ],
+    "wall": [
+        "**Vertical surface:**  Walls typically extend significantly vertically. ",
+        "**Solidity:** Walls are generally solid objects, not transparent or see-through.",
+        "**Rough or textured surface:**  Walls often have a visible texture, whether from brick, concrete, wood, or paint.",
+        "**Defined edges:** Walls have distinct edges that separate them from other objects or the background.",
+        "**Color:** Walls can be many colors, but at night, you might look for darker tones reflecting the lack of direct light. "
+    ],
+    "fence": [
+        "typically made of wood, metal, or plastic",
+        "constructed of vertical posts and horizontal rails or panels",
+        "can be solid or have gaps",
+        "may be painted or unpainted",
+        "often found along property lines, roads, or around gardens "
+    ],
+    "pole": [
+        "vertical structure",
+        "typically made of metal or wood",
+        "often found supporting things like lights, signs, or wires",
+        "rectangular or cylindrical shape",
+        "may have a base or ground attachment "
+    ],
+    "traffic light": [
+        "mounted on a pole",
+        "three or more lights of different colors (red, yellow, green)",
+        "located at an intersection or crosswalk",
+        "typically rectangular or circular shape  ",
+        " visible even in low lighting due to their bright colors  "
+    ],
+    "traffic sign": [
+        "**distinct shape and color:** Traffic signs have specific shapes (e.g., octagon, rectangle, diamond) and colors (e.g., red, green, yellow, blue) to convey information. ",
+        "**legibility:** Traffic signs display clear symbols and text that are visible from a distance. ",
+        "**positioning:** Traffic signs are typically mounted on poles or attached to structures along roadsides.",
+        "**reflective surfaces:** Many traffic signs have reflective materials to enhance visibility at night. "
+    ],
+    "vegetation": [
+        "**distinct shapes and textures:**  Look for outlines that suggest leaves, branches, or other plant-like structures. ",
+        "**shades of green:**  Even in low light, vegetation often retains some green hues. ",
+        "**brightness variations:** Vegetation tends to have a slightly different brightness compared to surrounding urban elements. ",
+        "**clustering:**  Plants often grow in groups or clumps."
+    ],
+    "terrain": [
+        " **Landscape features:**  Hills, valleys, mountains, plateaus ",
+        "**Varying ground texture:**  Rocks, dirt, sand, grass, snow, ice",
+        "**Changes in elevation:**  Slopes, cliffs, ridges",
+        "**Presence of vegetation:**  Trees, bushes, plants",
+        "**Water bodies:** Lakes, rivers, oceans "
+    ],
+    "sky": [
+        " Dark blue or black color ",
+        " Presence of stars",
+        " Visible moon",
+        " Absence of distinct objects or textures like buildings or trees  ",
+        " Top portion of the image, often curving downwards  "
+    ],
+    "person": [
+        "two legs and two arms ",
+        "roughly humanoid shape ",
+        "head with facial features (even if obscured) ",
+        "may have clothing or accessories ",
+        " larger size compared to objects like bicycles or traffic signs "
+    ],
+    "rider": [
+        "**Position:** Likely seated or standing on a vehicle like a motorcycle, bicycle, horse, etc.",
+        "**Headwear:** Helmet (for motorcycle/bicycle), hat (for horse).",
+        "**Upper body:**  Often holding handlebars or reins.  ",
+        "**Lower body:** Visible legs and feet, potentially wearing riding boots.  ",
+        "**Vehicle silhouette:** Look for the shape of a motorcycle, bicycle, or horse against the background. "
+    ],
+    "car": [
+        "Four wheels ",
+        "Rectangular shape",
+        "Headlights",
+        "Taillights",
+        " Often has tinted windows",
+        " May be parked or in motion",
+        " Usually has a metallic sheen "
+    ],
+    "truck": [
+        " **Larger size and bulkier shape** compared to cars.",
+        " **Boxy cargo area** often extending behind the cab.",
+        " **High ground clearance**",
+        " **Driving position above the passenger compartment**  (though some pickups might resemble SUVs)",
+        " **Often heavier tire tread and larger wheels.**"
+    ],
+    "bus": [
+        "large, multi-wheeled vehicle",
+        "brightly lit exterior (especially at nighttime)",
+        "rectangular shape with a front door and large windows",
+        "often has a destination sign or numbering on the front or side",
+        "many people inside or boarding/exiting (if applicable) "
+    ],
+    "train": [
+        " **long, metal body**",
+        " **multiple connected cars**",
+        " **wheels on axles**",
+        "**often brightly lit headlights and taillights at night**",
+        " **tracks** running alongside it ",
+        " **a potentially visible engine** at the front "
+    ],
+    "motorcycle": [
+        " two wheels ",
+        " handlebar",
+        " seat",
+        " engine visible ",
+        " smaller size compared to cars",
+        " taillight and headlight",
+        " often has a distinct, streamlined shape "
+    ],
+    "bicycle": [
+        "two wheels",
+        "a frame with handlebars",
+        "a seat",
+        "pedals",
+        "often has a chain and gears",
+        "may have reflectors ",
+        "may have a basket or panniers "
+    ]
+}

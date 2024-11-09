@@ -1,0 +1,155 @@
+{
+    "unlabled": [],
+    "road": [
+        "long and narrow",
+        "dark color (typically black, grey, or brown)",
+        "straight or curved path",
+        "marked lanes or lines for traffic"
+    ],
+    "sidewalk": [
+        "long and narrow",
+        "flat surface",
+        "usually next to a road",
+        "grey or concrete texture",
+        "sometimes paved or painted with lines",
+        "sometimes surrounded by fences or curb",
+        "often has persons or riders walking on it",
+        "often intersects with a road or crosswalk",
+        "generally separated from a road by color or curb"
+    ],
+    "building": [
+        "large structure with walls, roof, and windows ",
+        "rectangular shape, with vertical orientation ",
+        "made of materials such as stone, brick, concrete, or metal ",
+        "have doors, vents, and chimneys ",
+        "many have flat or pitched roofs ",
+        "often have a foundation or base ",
+        "can be different colors, often neutral tones such as beige, grey, brown, or white."
+    ],
+    "wall": [
+        "flat, vertical surface ",
+        "typically rectangular shape",
+        "attached to the ground or a floor",
+        "can be made of various materials such as brick, concrete, wood, or drywall",
+        "may have windows or doors",
+        "can have colors and textures"
+    ],
+    "fence": [
+        "vertical, upright shape",
+        "horizontal or diagonal posts ",
+        "material: wood, metal, vinyl, or stone",
+        "evenly spaced posts ",
+        "barbed-wired, broken or thin pieces ",
+        "gate"
+    ],
+    "pole": [
+        "long, slender shape",
+        "vertical orientation",
+        "metal, wood, or concrete material",
+        "cylindrical or tapered shape"
+    ],
+    "traffic light": [
+        "upright, free-standing or attached to a post",
+        "brightly colored lights (red, yellow, green)",
+        "multiple round or oval light fixtures",
+        "metal body",
+        "hung high above the ground or mounted on a tall pole"
+    ],
+    "traffic sign": [
+        "Typically mounted on a pole or hung from a structure",
+        "Colorful, often with a distinctive shape",
+        "Flat and rectangular or triangular",
+        "Text or symbols on the sign",
+        "Usually made of metal or reflective material",
+        "Often have a fixed installation point on the ground or a pole"
+    ],
+    "vegetation": [
+        "green color",
+        "leafy, branching, or flowered",
+        "varying shapes and sizes",
+        "possibly with stems or trunks",
+        "natural and irregular texture"
+    ],
+    "terrain": [
+        "uneven and fragmented",
+        "variations in elevation, slope, and texture",
+        "natural features like rocks, soil, hills",
+        "or a landscape without man-made objects, other than road ",
+        "various shades of green and brown ",
+        "unique topological characteristics"
+    ],
+    "sky": [
+        "blue or partly cloudy color",
+        "vast open space",
+        "may contain clouds or sunshine ",
+        "appears at the top of the image"
+    ],
+    "person": [
+        "two-legged",
+        "standing or sitting upright",
+        "wearing clothes",
+        "varying skin tones",
+        "heads with hair, ears, eyes, noses, and mouths",
+        "arms and legs with hands and feet"
+    ],
+    "rider": [
+        "person sitting on ",
+        "wearing a helmet ",
+        "wearing protective gear ",
+        "holding handlebars"
+    ],
+    "car": [
+        "four wheels",
+        "metal body",
+        "shiny surface",
+        "rectangular shape",
+        "various colors (often black, silver, white, red, blue)",
+        "windows and windshield",
+        "headlights and taillights"
+    ],
+    "truck": [
+        "large vehicle body",
+        "rectangular or box-shaped cargo area",
+        "distinct front grille and headlights",
+        "wheels and tires, typically with a higher profile than cars",
+        "possibly with a trailer or container attachment",
+        "usually with a flat or partially enclosed bed for hauling cargo or equipment"
+    ],
+    "bus": [
+        "large, rectangular vehicle ",
+        "a front windshield ",
+        "separate doors for entry and exit ",
+        "multiple windows ",
+        "typically white or various bright, bold colors",
+        "often has a distinctive destination sign ",
+        "has wheels and a bumper ",
+        "is longer than a car"
+    ],
+    "train": [
+        "long and articulated body",
+        "on rails",
+        "typical colors: silver, grey, red, or blue",
+        "multiple cars or carriages",
+        "locomotive at the front or middle",
+        "wheels and tracks",
+        "large windows"
+    ],
+    "motorcycle": [
+        "2 wheels",
+        "handlebars",
+        "seating for one or two people",
+        "typically black, silver, or bright colors",
+        "usually has a mirror and headlights",
+        "often with a license plate",
+        "footrests for the rider"
+    ],
+    "bicycle": [
+        "two wheels",
+        "long, horizontal frame",
+        "a seat",
+        "handlebars",
+        "pedals and crank",
+        "metal or bright colors",
+        "a chain-driven mechanism"
+    ]
+}

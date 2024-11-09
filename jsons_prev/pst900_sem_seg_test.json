@@ -1,0 +1,43 @@
+{
+    "background": [
+        "out of focus or blurry",
+        "texture or pattern of walls or floor",
+        "plain colors such as beige or white",
+        "lack of distinct edges or boundaries",
+        "not containing objects or people."
+    ],
+    "fire extinguisher": [
+        "cylindrical or rectangular shape",
+        "typically red",
+        "metal or plastic material",
+        "a hose and nozzle attached to the top or side",
+        "a pressure gauge or label on the side",
+        "a carrying handle on top"
+    ],
+    "backpack": [
+        "bag shape",
+        "various colors and patterns",
+        "shoulder straps",
+        "multiple compartments or pockets",
+        "zippers or buckles",
+        "made of fabric or synthetic material."
+    ],
+    "drill": [
+        "cylindrical shape",
+        "handheld or attached to wall",
+        "metal or plastic material",
+        "usually grey or yellow color",
+        "rotating drill bits ",
+        "power cord or battery pack ",
+        "trigger and handle"
+    ],
+    "human": [
+        "two-legged, upright posture",
+        "various colors of skin, hair, and clothing",
+        "oval-shaped head",
+        "two eyes, a nose, and a mouth",
+        "arms and hands, fingers, and thumbs",
+        "legs and feet, toes",
+        "varied clothing and accessories"
+    ]
+}

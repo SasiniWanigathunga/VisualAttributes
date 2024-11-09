@@ -1,0 +1,194 @@
+{
+    "background of night photos taken while driving": [
+        "a dark or dimly lit sky with or without visible stars or the moon",
+        "streetlights or headlight glare",
+        "blurred or motion-affected images of various objects on or beside the road, such as road, sidewalk, buildings, walls, fences, poles, traffic lights, traffic signs, vegetation, and other vehicles",
+        "motion lines or light trails",
+        "a warm, yellow or orange glow from the lights of oncoming vehicles, or the dashboard of the vehicle the photo was taken in"
+    ],
+    "road": [
+        "a long, flat surface, often made of asphalt, concrete, or dirt",
+        "markings, such as lines or arrows, to guide traffic",
+        "a defined edge, such as a curb or shoulder",
+        "road signs, traffic signals, or other road-related features",
+        "a path or channel for vehicles to follow",
+        "surrounding environment, such as buildings, trees, or other terrain."
+    ],
+    "sidewalk": [
+        "a flat, usually paved or concrete path",
+        "separated from the road by a curb or line",
+        "a distinctive line or color change from the road",
+        "wider than the road, often with more texture or pattern",
+        "may have pedestrian markings or accessibility ramps",
+        "usually have pedestrian traffic or street furniture such as benches, trash cans, or bike racks nearby",
+        "well-lit at night through streetlights or building lights",
+        "often adjacent to buildings or vegetation."
+    ],
+    "building": [
+        "structure with a roof",
+        "walls made of materials such as concrete, brick, glass, or metal",
+        "windows and/or doors",
+        "a foundation or base",
+        "possibly with chimneys, vents, or antennas on the roof",
+        "multiple stories",
+        "may have outdoor lighting or signage",
+        "a unique shape or architecture"
+    ],
+    "wall": [
+        "a large, flat, rectangular surface",
+        "a vertical structure",
+        "made of materials like brick, concrete, stone, or wood",
+        "may have windows, doors, or other openings",
+        "may have a distinct texture or pattern",
+        "may be a part of a building or a standalone structure."
+    ],
+    "fence": [
+        "a type of barrier ",
+        "posts and rails ",
+        "made of metal, wood, or other materials ",
+        "horizontal or vertical bars ",
+        "stands upright on the ground ",
+        "may have decorations or pointed tops ",
+        "may be adjacent to a building, road, or other structures ",
+        "typically has a defined edge or boundary ",
+        "vertical or diagonal orientation."
+    ],
+    "pole": [
+        "tall, thin, and vertical structure",
+        "typically cylindrical or tapering",
+        "often made of metal, wood, or concrete",
+        "may have a rounded or pointed top",
+        "may have brackets or attachments for holding items such as lights, signs, or cameras",
+        "sometimes has a base or foundation",
+        "tends to stand out against the surrounding environment due to its height and uniform shape."
+    ],
+    "traffic light": [
+        "mounted on a vertical pole or suspended from a horizontal bar ",
+        "usually positioned at an intersection or over a section of road ",
+        "the circular or arrow-shaped lenses are typically the same size and ordered vertically or horizontally in a standard pattern (red at the top or left)",
+        "usually with a metal or plastic casing"
+    ],
+    "traffic sign": [
+        "rigid material such as metal or plastic",
+        "rectangular or triangular shape",
+        "posting or mounting structure",
+        "standardized font type",
+        "color of yellow, orange green or white or blue or red ",
+        "often reflectorized"
+    ],
+    "vegetation": [
+        "green or brown color",
+        "irregular shape or outline",
+        "branches, stems, or leaves",
+        "natural or organic texture",
+        "varying densities and heights",
+        "may be partially illuminated or casting shadows in night photos",
+        "may have flowers, fruits, or other distinguishing features",
+        "may be seen in clusters, groups, or as individual plants"
+    ],
+    "terrain": [
+        "varying elevations or slopes ",
+        "natural features such as hills, mountains, or valleys ",
+        "irregular edges or boundaries ",
+        "textures or patterns indicative of earth or soil ",
+        "variations in color or shading ",
+        "presence of vegetation or bare land ",
+        "geological features such as rocks or water"
+    ],
+    "sky": [
+        "typically the large area at the top of the image",
+        "often darker in night photos due to lack of sunlight",
+        "can contain stars and a moon in a night photo",
+        "non-uniform areas of light or cloud cover in a night photo",
+        "a generally large, open, featureless space in a night photo"
+    ],
+    "person": [
+        "two-legged and two-armed",
+        "a head, torso, arms, and legs",
+        "a face with eyes, nose, and mouth",
+        "fingers on hands and toes on feet",
+        "hair on the head",
+        "wearing clothing or accessories",
+        "a varying range of skin tones",
+        "possibly carrying objects such as a bag, phone, or umbrella"
+    ],
+    "rider": [
+        "a person seated on a vehicle ",
+        "helmet ",
+        "usually dressed in riding gear ",
+        "protective pads ",
+        "gloves ",
+        "boots ",
+        "often sitting behind handlebars or holding onto the bike, motorcycle or other vehicles."
+    ],
+    "car": [
+        "a chassis and bodywork",
+        "a windshield",
+        "side windows",
+        "headlights",
+        "taillights",
+        "a license plate",
+        "wheels and tires",
+        "a bumper",
+        "a trunk or rear compartment"
+    ],
+    "truck": [
+        "four wheels",
+        "vehicle body",
+        "headlights",
+        "larger size compared to a car",
+        "flatbed or cargo compartment",
+        "a cabin or driver's compartment",
+        "multiple axles",
+        "wheels with hubcaps or metal rims",
+        "tail lights and a license plate",
+        "side mirrors and a rearview mirror"
+    ],
+    "bus": [
+        "large vehicle",
+        "mostly rectangular body",
+        "multiple wheels",
+        "one or more large windows ",
+        "lights at the front and rear",
+        "a flat front with a forward-facing windshield",
+        "generally white, silver, yellow or various other colors ",
+        "large size compared to an average vehicle",
+        "often a separate section for the driver",
+        "rearview mirrors",
+        "license plates at the front and rear",
+        "door(s) at the side"
+    ],
+    "train": [
+        "long and rectangular shape",
+        "typically brown, grey, blue, or metal in color",
+        "multiple linked cars or carriages",
+        "wheels and rails",
+        "windows and doors on the sides of the cars",
+        "headlamps or lights on the front and rear of the train",
+        "a locomotive or engine at the front or rear of the train"
+    ],
+    "motorcycle": [
+        "two-wheeled vehicle",
+        "single seat or two seats",
+        "handlebars",
+        "headlights",
+        "a fuel tank",
+        "an engine and exhaust system",
+        "a chain or belt drive",
+        "a rearview mirror",
+        "a license plate",
+        "a wide profile with a narrow wheelbase"
+    ],
+    "bicycle": [
+        "Two wheels with a frame",
+        "A seat or saddle",
+        "Handlebars",
+        "Pedals",
+        "Gears or a drivetrain",
+        "Tires",
+        "Brakes (rim or disc)",
+        "Wheels have spokes or are solid",
+        "The bike may have a chain, lights, reflectors, or kickstand",
+        "A person may or may not be riding it"
+    ]
+}

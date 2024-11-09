@@ -1,0 +1,65 @@
+{
+    "background of food": [
+        "various types of food items present",
+        "often arranged on a table, plate, or counter",
+        "colorful",
+        "different textures and shapes",
+        "may include serving utensils or dishes",
+        "may have a tablecloth or decorative background"
+    ],
+    "candy": [
+        "colorful and vibrant",
+        "small, uniform shape",
+        "shiny or glossy appearance",
+        "transparent or semi-transparent wrapper",
+        "varied textures (e.g. smooth, bumpy, sticky)",
+        "arranged in a container or scattered on a surface"
+    ],
+    "egg tart": [
+        "circular pastry crust",
+        "egg custard filling",
+        "golden brown color",
+        "smooth and rounded edges",
+        "typically served on a plate or napkin",
+        "often has a flaky crust with a slight sheen"
+    ],
+    "french fries": [
+        "long, thin strips of fried potato",
+        "often golden yellow or golden brown in color",
+        "may be served in a container, such as a paper cone or a bowl",
+        "may have seasonings or toppings, such as salt, ketchup, or cheese",
+        "often accompanied by other foods, such as burgers or sandwiches"
+    ],
+    "chocolate": [
+        "brown color",
+        "smooth and glossy surface",
+        "rectangular or square shape",
+        "wrapped in foil or plastic",
+        "may have a label or logo",
+        "can be in the form of a bar, truffle, or other shapes"
+    ],
+    "biscuit": [
+        "typically beige or brown in color",
+        "usually circular in shape",
+        "often with a flat top and rounded edges",
+        "may have a decorative pattern or texture on the surface",
+        "can be flaky or crumbly in appearance",
+        "often placed on a plate or served with other food items"
+    ],
+    "potato": [
+        "brown or yellowish skin",
+        "oval or round shape",
+        "lumpy or smooth surface",
+        "can be peeled or unpeeled",
+        "might have eyes or buds",
+        "typically solid and dense"
+    ],
+    "chicken": [
+        "meat appearance",
+        "golden brown or cooked color",
+        "roasted or grilled texture",
+        "potentially with sauces or seasonings",
+        "drumsticks, wings, or other recognizable chicken parts",
+        "possibly with bones or skin visible"
+    ]
+}

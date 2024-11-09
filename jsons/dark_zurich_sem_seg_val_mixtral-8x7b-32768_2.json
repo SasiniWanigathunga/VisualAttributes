@@ -1,0 +1,32 @@
+{
+    "background of night photos taken while driving": [
+        "dark background",
+        "presence of roads, streets, or highways, which may have markings or lights",
+        "moving objects such as cars, trucks, or other vehicles",
+        "street lights, traffic lights, or building lights",
+        "blurred or streaked lines, indicating motion",
+        "absence of people or animals outside of vehicles",
+        "occasional landmarks or buildings",
+        "distant hills, trees, or horizon line",
+        "reflection of lights on the road surface",
+        "presence of a dashboard or car interior in the foreground."
+    ],
+    "person": [
+        "human figure",
+        "upright posture",
+        "two arms and two legs",
+        "head on top of the body",
+        "clothing",
+        "carrying objects",
+        "movement",
+        "interaction with the environment",
+        "human-powered vehicle",
+        "two wheels",
+        "frame",
+        "handlebars",
+        "seat",
+        "pedals",
+        "chain",
+        "lack of a motor or engine"
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "background of night photos taken while driving": [
+        "dark or dimly lit environment",
+        "streaks or trails of light from car headlights, streetlights, or other sources",
+        "blurred or motion-blurred background due to camera movement",
+        "dark shadows or silhouettes of objects or people",
+        "bright or glowing lights from traffic lights, signs, or other vehicles",
+        "possible presence of reflective road markings or lane dividers"
+    ],
+    "road": [
+        "a flat, paved, or unpaved surface ",
+        "a defined path or strip",
+        "parallel lines or markings",
+        "a clear distinction from surrounding terrain or vegetation",
+        "presence of lanes, traffic directions, or arrows",
+        "vehicles, pedestrians, or bicyclists traveling on it",
+        "streetlights, road signs, or other roadway features"
+    ],
+    "sidewalk": [
+        "a paved or concrete pathway",
+        "usually next to a road or street",
+        "may have a curb or gutter separating it from the road",
+        "often has pedestrians or bicyclists on it",
+        "may have obstacles such as trash cans, benches, or lampposts",
+        "may be lined with buildings, walls, or fences"
+    ],
+    "building": [
+        "permanent structure with walls and a roof",
+        "various shapes and sizes",
+        "made of materials such as brick, concrete, wood, or glass",
+        "can have windows, doors, and other architectural features",
+        "may have a distinct entrance or facade",
+        "can be multi-story or single-story",
+        "can have a roof with various shapes and materials such as tiles, shingles, or thatch."
+    ],
+    "wall": [
+        "a continuous vertical structure",
+        "connected to a building or fence",
+        "multiple layers of bricks, stones, or concrete blocks",
+        "a solid, flat surface",
+        "often with windows, doors, or other architectural features",
+        "may have a uniform color or texture"
+    ],
+    "fence": [
+        "a barrier or enclosure ",
+        "vertical or horizontal bars, wires, or panels",
+        "typically made of wood, metal, or plastic",
+        "posts or pillars to support the structure",
+        "can be decorated with vegetation, such as vines or flowers",
+        "often marking a boundary or perimeter"
+    ],
+    "pole": [
+        "vertical, cylindrical shape",
+        "narrow and tall",
+        "often attached to a base or mounted on a wall",
+        "can be made of metal, wood, or other materials",
+        "may have a rounded or tapered top",
+        "may have external features such as brackets, hooks, or wires attached"
+    ],
+    "traffic light": [
+        "rectangular or cylindrical shape",
+        "suspended from a gantry or mounted on a pole",
+        "consists of three colored lights: red, yellow, and green",
+        "lights are usually arranged vertically",
+        "may have a countdown timer display",
+        "often has a black or silver casing"
+    ],
+    "traffic sign": [
+        "rectangular or diamond-shaped with a distinct border",
+        "typically mounted on a pole or hung from a gantry",
+        "displays text, symbols, or images conveying traffic information",
+        "often has a reflective surface or illuminated letters",
+        "standardized colors such as yellow, green, blue, or red",
+        "may have a specific font style or graphic design",
+        "usually placed along roads, highways, or intersections"
+    ],
+    "vegetation": [
+        "green or brown color",
+        "irregular shape",
+        "varying texture",
+        "branching or leafy structure",
+        "growth on or near the ground",
+        "may cast a shadow or reflection"
+    ],
+    "terrain": [
+        "varied elevations or landforms",
+        "natural features such as hills, mountains, valleys, or bodies of water",
+        "textures and colors of soil, rocks, or vegetation",
+        "shadows or highlights that indicate depth and contours",
+        "landscape features such as forests, deserts, or grasslands"
+    ],
+    "sky": [
+        "upper portion of the image",
+        "typically darker than the rest of the image at night",
+        "may have stars or moon visible",
+        "may have clouds or haze",
+        "gradient of color from horizon to zenith"
+    ],
+    "person": [
+        "two legs, two arms, and a head",
+        "upright posture",
+        "facial features, including eyes, nose, and mouth",
+        "skin tones ranging from pale to dark",
+        "hair, facial hair, or no hair at all",
+        "various clothing styles and accessories",
+        "sometimes carrying objects or bags"
+    ],
+    "rider": [
+        "a person wearing a helmet",
+        "sitting on a vehicle such as a motorcycle, bicycle, or horse",
+        "legs stretched out to the sides or forward",
+        "holding onto the vehicle's handlebars",
+        "wearing protective gear like gloves and jacket",
+        "looking ahead or down at the road/path",
+        "having a dynamic pose, conveying motion and movement"
+    ],
+    "car": [
+        "four wheels",
+        "metal body",
+        "windshield and windows",
+        "headlights and taillights",
+        "doors and wheels",
+        "license plate",
+        "distinct shape and size",
+        "various colors such as red, blue, silver, black, white"
+    ],
+    "truck": [
+        "large vehicle with an open cargo bed or enclosed box",
+        "typically higher and larger than a car",
+        "often has a separate cabin for the driver",
+        "may have a trailer or towing equipment",
+        "headlamps and taillights that are often larger than those on cars",
+        "a grille and bumper that are often more prominent than those on cars",
+        "wheels and tires that are sized for heavy loads"
+    ],
+    "bus": [
+        "large vehicle",
+        "rectangular shape with a flat front and a sloping roof",
+        "multiple windows along the sides",
+        "a large, horizontal grille on the front",
+        "headlights and taillights",
+        "a prominent roof rack or luggage storage",
+        "wheels and tires",
+        "a distinctive paint scheme or markings indicating it is a bus"
+    ],
+    "train": [
+        "long, narrow, and heavy vehicle",
+        "multiple cars connected by couplers",
+        "metal body and wheels",
+        "distinct headlights and taillights",
+        "a locomotive at the front with a distinctive shape",
+        "tracks or rails in the surroundings"
+    ],
+    "motorcycle": [
+        "two wheels",
+        "powered by an engine",
+        "has a seat for the rider",
+        "handlebars for steering",
+        "a headlight",
+        "a fuel tank",
+        "exhaust pipes",
+        "a license plate"
+    ],
+    "bicycle": [
+        "two wheels",
+        "a metal frame",
+        "a seat and handlebars",
+        "pedals",
+        "a chain or belt to transmit power",
+        "brakes",
+        "gears (for geared bicycles)",
+        "reflectors or lights (at night)",
+        "a rider's leg motion (if the photo is taken while the bicycle is in motion)"
+    ]
+}

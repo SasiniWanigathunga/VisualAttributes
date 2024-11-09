@@ -1,0 +1,14 @@
+{
+    "others": [
+        "gray",
+        "irregular",
+        "various",
+        "outlines"
+    ],
+    "nuclei in cells": [
+        "dark",
+        "round",
+        "stable",
+        "oval"
+    ]
+}
