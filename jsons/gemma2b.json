@@ -1,0 +1,169 @@
+{
+    "background of night photos taken while driving": [
+        "dark and starry sky",
+        "moonlit streetlights",
+        "street lamps",
+        "buildings with dark windows",
+        "dark trees",
+        "dark vegetation",
+        "dark road",
+        "dark traffic lights",
+        "dark traffic signs"
+    ],
+    "road": [
+        "a paved or concrete road",
+        "a clear and well-defined lane",
+        "a consistent direction of travel",
+        "a lack of obstacles or other vehicles in the foreground"
+    ],
+    "sidewalk": [
+        "a raised edge or curb",
+        "a path or line marking the sidewalk",
+        "a light reflecting from the sidewalk",
+        "a dark line or edge along the sidewalk",
+        "a few scattered street lamps or streetlights"
+    ],
+    "building": [
+        "a rectangular shape",
+        "a high-rise structure",
+        "a large window or door",
+        "a sign or advertisement",
+        "a streetlight",
+        "a reflection of the city lights"
+    ],
+    "wall": [
+        "a solid, rectangular shape",
+        "a dark or light color",
+        "a smooth or rough surface",
+        "a clear or opaque frame",
+        "a shadow that extends beyond the frame"
+    ],
+    "fence": [
+        "a metal or wooden structure",
+        "a chain-link fence",
+        "a barbed wire fence",
+        "a wooden fence",
+        "a wrought iron fence"
+    ],
+    "pole": [
+        "a vertical structure",
+        "a smooth, polished surface",
+        "a dark color",
+        "a clear or translucent finish",
+        "a pole mounted on a pole or other structure",
+        "a sign or inscription on the pole"
+    ],
+    "traffic light": [
+        "a stop sign",
+        "a flashing light",
+        "a red or yellow color",
+        "a clear background",
+        "a clear view of the traffic light from the front",
+        "a clear view of the traffic light from the side"
+    ],
+    "traffic sign": [
+        "a rectangular shape with bold lines",
+        "black or grey",
+        "a raised edge or border",
+        "a reflective surface",
+        "a light source",
+        "a signpost or other object that indicates the location of the road or path"
+    ],
+    "vegetation": [
+        "a variety of plant species",
+        "flowers",
+        "leaves",
+        "bark",
+        "branches",
+        "roots",
+        "a variety of sizes and shapes of plants",
+        "a variety of colors of plants"
+    ],
+    "terrain": [
+        "a variety of buildings, structures, and vehicles",
+        "a mix of natural and man-made features",
+        "a clear night sky with stars and moon",
+        "a lack of streetlights or other artificial lighting",
+        "a sense of depth and perspective"
+    ],
+    "sky": [
+        "bright, clear, and starry",
+        "a full moon or stars",
+        "a crescent moon",
+        "a crescent moon",
+        "a starlit sky"
+    ],
+    "person": [
+        "human body",
+        "clothing",
+        "hair",
+        "eyes",
+        "mouth",
+        "posture",
+        "facial expressions"
+    ],
+    "rider": [
+        "a person riding a bike, motorcycle, or other vehicle",
+        "a person walking or running",
+        "a person sitting on a bench or other object",
+        "a person carrying a bag or other item",
+        "a person talking on a phone or other device",
+        "a person using a flashlight or other light source"
+    ],
+    "car": [
+        "four-wheeled vehicle",
+        "black or grey",
+        "a large, rectangular body",
+        "a grille or hood",
+        "headlights",
+        "taillights",
+        "a license plate"
+    ],
+    "truck": [
+        "a large, rectangular body",
+        "a grille or hood",
+        "a ladder or ramp",
+        "a trailer or cargo bed",
+        "a flashing light",
+        "a brake light",
+        "a turn signal",
+        "a license plate"
+    ],
+    "bus": [
+        "a bus stop or shelter",
+        "a bus stop sign",
+        "a bus stop shelter",
+        "a bus with a driver and passengers",
+        "a bus with a stop sign",
+        "a bus with a stop signal",
+        "a bus with a flashing light"
+    ],
+    "train": [
+        "long, sleek body",
+        "high-speed rail",
+        "multiple carriages",
+        "a headlight",
+        "a tail light",
+        "a stop sign",
+        "a signal light",
+        "a train station"
+    ],
+    "motorcycle": [
+        "a two-wheeled vehicle",
+        "a single seat",
+        "a large, round tank",
+        "a headlight",
+        "a taillight",
+        "a muffler",
+        "a chain or belt",
+        "a rider"
+    ],
+    "bicycle": [
+        "two wheels",
+        "a frame or handlebars",
+        "tires",
+        "a chain or belt",
+        "a basket or bag",
+        "a rider"
+    ]
+}

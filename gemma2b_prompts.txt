@@ -1,0 +1,1445 @@
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a background in a aerial image:
+-
+- a natural landscape
+- a cityscape
+- a field
+- a forest
+- a mountain range
+- a body of water<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a background in a aerial image:
+-
+- a natural landscape
+- a cityscape
+- a field
+- a forest
+- a mountain range
+- a body of water<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a background in a aerial image:
+-
+- a natural landscape
+- a cityscape
+- a field
+- a forest
+- a mountain range
+- a body of water<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a background in a aerial image:
+-
+- a natural landscape
+- a cityscape
+- a field
+- a forest
+- a mountain range
+- a body of water<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a background in a aerial image:
+-
+- a natural landscape
+- a city or town
+- a body of water
+- a field or farm
+- a forest or bush
+- a building or structure
+- a road or sidewalk
+- a building or structure<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a background in a aerial image:
+-
+- a natural landscape
+- a cityscape
+- a field
+- a forest
+- a mountain range
+- a body of water<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a road from background , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a road in a aerial image:
+-
+- a paved or gravel surface
+- a clear path or lane
+- a traffic lane or road
+- a signpost or traffic control device
+- a bridge or tunnel
+- a clear view of the horizon<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a sidewalk from background , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a sidewalk in a aerial image:
+-
+- a raised, paved path
+- a clear, unobstructed view of the path
+- a lack of vegetation or other obstacles blocking the view<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a building from background , road , sidewalk , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a building in a aerial image:
+-
+- rectangular shape
+- walls, windows, doors, and other features
+- a roof
+- a foundation
+- a porch or balcony
+- landscaping features<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a wall from background , road , sidewalk , building , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a wall in a aerial image:
+-
+- a solid, rectangular shape
+- a smooth, non-porous surface
+- a lack of windows or doors
+- a lack of vegetation or other objects growing on or near the surface<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a fence from background , road , sidewalk , building , wall , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a fence in a aerial image:
+-
+- a structure made of wood, metal, or other materials
+- a post or railing
+- a gate or entrance
+- a chain or wire mesh
+- a fence post or stake
+- a broken fence<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a pole from background , road , sidewalk , building , wall , fence , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a pole in a aerial image:
+-
+- a vertical support
+- a single or multiple rings or spokes
+- a smooth, polished surface
+- a dark or contrasting color
+- a clear or transparent center<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a traffic light from background , road , sidewalk , building , wall , fence , pole , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a traffic light in a aerial image:
+-
+- a rectangular shape with red, yellow, and green colors
+- a clear glass or plastic lens
+- a reflective surface<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a traffic sign from background , road , sidewalk , building , wall , fence , pole , traffic light , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a traffic sign in a aerial image:
+-
+- a rectangular shape with bold lines
+- black or grey
+- a raised edge or border
+- a reflective surface
+- a light source
+- a signpost or other object that indicates the location of the road or path<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a vegetation from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a vegetation in a aerial image:
+-
+- leaves of different shapes and sizes
+- flowers
+- fruits
+- bark
+- branches
+- roots
+- a canopy of trees or plants<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a terrain from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a terrain in a aerial image:
+-
+- a body of water
+- a mountain range
+- a forest
+- a desert
+- a grassland
+- a beach<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a sky from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a sky in a aerial image:
+-
+- blue or violet color
+- clear and bright
+- no clouds or precipitation
+- a horizon line<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a person from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a person in a aerial image:
+-
+- human body
+- clothing
+- hair
+- eyes
+- mouth
+- posture<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a rider from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a rider in a aerial image:
+-
+- body position
+- posture
+- clothing
+- hair style
+- facial expressions<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a car from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a car in a aerial image:
+-
+- four wheels
+- a rectangular shape
+- a hood and trunk
+- a grille
+- a windshield
+- a steering wheel
+- a brake light
+- a taillight<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a truck from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a truck in a aerial image:
+-
+- four-wheeled vehicle
+- rectangular shape
+- a cab with a windshield and doors
+- a grille or hood
+- a ladder or ramp
+- a trailer or cargo bed<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a bus from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a bus in a aerial image:
+-
+- a bus stop or stop sign
+- a bus with a driver and passengers
+- a bus with a clear view of the road ahead
+- a bus with a clear view of the sky
+- a bus with a clear view of the surrounding environment<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a train from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a train in a aerial image:
+-
+- long, slender body
+- wheels
+- a cab or engine
+- a roof
+- a headlight
+- a tail light
+- a whistle<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a motorcycle from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a motorcycle in a aerial image:
+-
+- two wheels
+- a single seat
+- a chain or belt
+- a muffler
+- a headlight
+- a taillight
+- a license plate<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a bicycle from background , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle in a photo?
+A: There are several useful visual attributes to tell there is a bicycle in a aerial image:
+-
+- two wheels
+- a frame made of metal, plastic, or wood
+- tires
+- handlebars
+- a seat
+- a chain or belt
+- a basket or bag<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background of night photos taken while driving from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a background of night photos taken while driving in a aerial image:
+-
+- dark sky with no stars or moon
+- bright headlights from passing vehicles
+- streetlights
+- buildings
+- walls
+- fences
+- poles
+- traffic signs
+- vegetation
+- terrain
+- road
+- sidewalk
+- building<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a road from background of night photos taken while driving , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a road in a aerial image:
+-
+- a clear path or track
+- a lane or road surface
+- a traffic lane or road signs
+- a bridge or tunnel
+- a signpost or marker<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a sidewalk from background of night photos taken while driving , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a sidewalk in a aerial image:
+-
+- a raised edge or curb
+- a path or line that follows the edge of the road or sidewalk
+- a clear and distinct outline<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a background of night photos taken while driving from road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a background of night photos taken while driving in a urban city photo taken while driving in night:
+-
+- dark and starry sky
+- moonlit streetlights
+- street lamps
+- buildings with dark windows
+- dark trees
+- dark vegetation
+- dark road
+- dark traffic lights
+- dark traffic signs<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a road from background of night photos taken while driving , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a road in a urban city photo taken while driving in night:
+-
+- a paved or concrete road
+- a clear and well-defined lane
+- a consistent direction of travel
+- a lack of obstacles or other vehicles in the foreground<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a sidewalk from background of night photos taken while driving , road , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a sidewalk in a urban city photo taken while driving in night:
+-
+- a raised edge or curb
+- a path or line marking the sidewalk
+- a light reflecting from the sidewalk
+- a dark line or edge along the sidewalk
+- a few scattered street lamps or streetlights<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a building from background of night photos taken while driving , road , sidewalk , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a building in a urban city photo taken while driving in night:
+-
+- a rectangular shape
+- a high-rise structure
+- a large window or door
+- a sign or advertisement
+- a streetlight
+- a reflection of the city lights<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a wall from background of night photos taken while driving , road , sidewalk , building , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a wall in a urban city photo taken while driving in night:
+-
+- a solid, rectangular shape
+- a dark or light color
+- a smooth or rough surface
+- a clear or opaque frame
+- a shadow that extends beyond the frame<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a fence from background of night photos taken while driving , road , sidewalk , building , wall , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a fence in a urban city photo taken while driving in night:
+-
+- a metal or wooden structure
+- a chain-link fence
+- a barbed wire fence
+- a wooden fence
+- a wrought iron fence<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a pole from background of night photos taken while driving , road , sidewalk , building , wall , fence , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a pole in a urban city photo taken while driving in night:
+-
+- a vertical structure
+- a smooth, polished surface
+- a dark color
+- a clear or translucent finish
+- a pole mounted on a pole or other structure
+- a sign or inscription on the pole<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a traffic light from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a traffic light in a urban city photo taken while driving in night:
+-
+- a stop sign
+- a flashing light
+- a red or yellow color
+- a clear background
+- a clear view of the traffic light from the front
+- a clear view of the traffic light from the side<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a traffic sign from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a traffic sign in a urban city photo taken while driving in night:
+-
+- a rectangular shape with bold lines
+- black or grey
+- a raised edge or border
+- a reflective surface
+- a light source
+- a signpost or other object that indicates the location of the road or path<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a vegetation from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , terrain , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a vegetation in a urban city photo taken while driving in night:
+-
+- a variety of plant species
+- flowers
+- leaves
+- bark
+- branches
+- roots
+- a variety of sizes and shapes of plants
+- a variety of colors of plants<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a terrain from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , sky , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a terrain in a urban city photo taken while driving in night:
+-
+- a variety of buildings, structures, and vehicles
+- a mix of natural and man-made features
+- a clear night sky with stars and moon
+- a lack of streetlights or other artificial lighting
+- a sense of depth and perspective<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , person , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a sky from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , person , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a sky in a urban city photo taken while driving in night:
+-
+- bright, clear, and starry
+- a full moon or stars
+- a crescent moon
+- a crescent moon
+- a starlit sky<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , rider , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a person from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , rider , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a person in a urban city photo taken while driving in night:
+-
+- human body
+- clothing
+- hair
+- eyes
+- mouth
+- posture
+- facial expressions<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , car , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a rider from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , car , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a rider in a urban city photo taken while driving in night:
+-
+- a person riding a bike, motorcycle, or other vehicle
+- a person walking or running
+- a person sitting on a bench or other object
+- a person carrying a bag or other item
+- a person talking on a phone or other device
+- a person using a flashlight or other light source<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , truck , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a car from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , truck , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a car in a urban city photo taken while driving in night:
+-
+- four-wheeled vehicle
+- black or grey
+- a large, rectangular body
+- a grille or hood
+- headlights
+- taillights
+- a license plate<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , bus , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a truck from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , bus , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a truck in a urban city photo taken while driving in night:
+-
+- a large, rectangular body
+- a grille or hood
+- a ladder or ramp
+- a trailer or cargo bed
+- a flashing light
+- a brake light
+- a turn signal
+- a license plate<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , train , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a bus from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , train , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a bus in a urban city photo taken while driving in night:
+-
+- a bus stop or shelter
+- a bus stop sign
+- a bus stop shelter
+- a bus with a driver and passengers
+- a bus with a stop sign
+- a bus with a stop signal
+- a bus with a flashing light<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , motorcycle , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a train from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , motorcycle , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a train in a urban city photo taken while driving in night:
+-
+- long, sleek body
+- high-speed rail
+- multiple carriages
+- a headlight
+- a tail light
+- a stop sign
+- a signal light
+- a train station<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , bicycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a motorcycle from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , bicycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a motorcycle in a urban city photo taken while driving in night:
+-
+- a two-wheeled vehicle
+- a single seat
+- a large, round tank
+- a headlight
+- a taillight
+- a muffler
+- a chain or belt
+- a rider<eos>
+<bos>Q: What are useful visual attributes for distinguishing a lemur from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle in a photo?
+A: There are several useful visual attributes to tell there is a lemur in a photo:
+- four-limbed primate
+- black, grey, white, brown, or red-brown
+- wet and hairless nose with curved nostrils
+- long tail
+- large eyes
+- furry bodies
+- clawed hands and feet
+
+Q: What are useful visual attributes for distinguishing a television from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle in a photo?
+A: There are several useful visual attributes to tell there is a television in a photo:
+- electronic device
+- black or grey
+- a large, rectangular screen
+- a stand or mount to support the screen
+- one or more speakers
+- a power cord
+- input ports for connecting to other devices
+- a remote control
+
+Q: What are useful visual attributes for distinguishing a bicycle from background of night photos taken while driving , road , sidewalk , building , wall , fence , pole , traffic light , traffic sign , vegetation , terrain , sky , person , rider , car , truck , bus , train , motorcycle in a urban city photo taken while driving in night?
+A: There are several useful visual attributes to tell there is a bicycle in a urban city photo taken while driving in night:
+-
+- two wheels
+- a frame or handlebars
+- tires
+- a chain or belt
+- a basket or bag
+- a rider<eos>
