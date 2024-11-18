@@ -1,0 +1,198 @@
+{
+    "background of night photos taken while driving": [
+        "dark or low lighting conditions",
+        "blurred or inconsistent lighting",
+        "buildings, roads, and other urban structures can appear darker",
+        "car headlights can illuminate parts of the scene, creating contrast and highlighting certain objects",
+        "reflections on wet or glossy surfaces such as roads, windows, and other reflective surfaces can create glare and reflections, making it harder to distinguish objects",
+        "the absence of vegetation and natural elements, as they are less visible in the dark",
+        "traffic signals, signs, and lights can be more visible due to their bright colors and illumination",
+        "car taillights and other vehicular lights can be seen from a distance."
+    ],
+    "road": [
+        "man-made feature",
+        "often marked with white lines or reflectors to delineate lanes",
+        "surrounding areas may be dimly lit, but the road itself is usually well-illuminated by streetlights or headlights",
+        "may have intersections or roundabouts with traffic signals, signs, or stop lines",
+        "may have visible pavement markings for turn lanes, pedestrian crossings, or one-way arrows.",
+        "may have reflective dividers or curbs along the edges.",
+        "may have drainage channels or grates",
+        "may have surface imperfections or cracks.",
+        "may have reflections from oncoming headlights or parked cars.",
+        "may have shadows from trees or buildings along the edges."
+    ],
+    "sidewalk": [
+        "made of concrete, brick, or asphalt",
+        "usually separates the roadway from the curb or shoulder",
+        "has visible texture or patterns caused by weathering or aging",
+        "no vegetation or other obstructions typically present on sidewalks",
+        "may be illuminated by street lamps or other sources of light, creating a distinct contrast with the surrounding darkness.It is important to note that these attributes might not be as clear or distinguishable in night photos taken while driving compared to daytime conditions, and other elements in the scene, such as buildings or vehicles, may obscure some of the details."
+    ],
+    "building": [
+        "distinct shape and outline",
+        "often vertical or angular",
+        "made of material(s) such as concrete, brick, glass, or steel",
+        "may have windows or lights illuminating at night",
+        "may have a roof or other prominent architectural features",
+        "may have signs or identifying logos",
+        "may cast shadows on the ground or surroundings",
+        "may be surrounded by sidewalks, roads, or other urban infrastructure."
+    ],
+    "wall": [
+        "vertical orientation",
+        "solid and opaque",
+        "uniform color or texture",
+        "may have architectural features such as windows, doors, corners, bricks, or graffiti",
+        "may have lights or reflections from nearby buildings or streetlights",
+        "may have a clear boundary with adjacent elements in the photo",
+        "may be part of a building or structure, or a freestanding wall or fence."
+    ],
+    "fence": [
+        "vertical structure",
+        "often made of wood, metal, or concrete",
+        "can have various heights and shapes (e.g. picket, decorative, chain link, or privacy fence)",
+        "can have gates or doors",
+        "can have bars, slats, or solid panels",
+        "can be illuminated by lights or reflect light from surrounding street lights or headlights.It's important to note that some of these features might be difficult to discern at night with just a photo based on the given description, but these are the general characteristics of a fence to keep in mind."
+    ],
+    "pole": [
+        "usually vertical",
+        "can be made of various materials such as steel, concrete, wood, or aluminum",
+        "may have wires or cables attached to it",
+        "may have signs, advertisements, or traffic signals attached to it",
+        "may be painted with reflective material to enhance visibility at night",
+        "can have height variations, depending on their usage (e.g., power pole, telephone pole, traffic signal pole)",
+        "may have a base or foundation that is wider than the pole itself."
+    ],
+    "traffic light": [
+        "a square or round housing",
+        "a white background or reflective material",
+        "a pole or post to support the housing",
+        "a reflective band or strip around the base of the pole",
+        "wires or cables connected to the housing",
+        "other traffic signals or signs nearby for context.Here are some additional tips to help distinguish a traffic light in a night photo:",
+        "A traffic light is usually a stationary object, unlike a car, truck, bus, or motorcycle that might be moving.",
+        "It is usually located at the side of the road, on a pole, or attached to a building, whereas other objects like people, buildings, and trees are more likely to be located in the foreground or background of the photo.",
+        "The traffic light is usually the tallest object near the road in the vicinity, making it easy to spot.",
+        "The reflection of the traffic light in the wet road surface or windows of nearby buildings can help make it more visible.",
+        "The presence of other traffic signals, stop signs, or other road signs can help confirm the presence of a traffic light."
+    ],
+    "traffic sign": [
+        "reflective material, making the sign visible even in low light conditions",
+        "text or symbols, such as arrows, warning icons, stop signs, yield signs, speed limit signs, etc.",
+        "mounted on a pole or post",
+        "visible against the background of the night scene, such as a darkened urban scene, a road, or a building.",
+        "the sign may be backlit or illuminated, giving it a distinct glow or reflection.",
+        "may be located near other road infrastructure, such as traffic lights, poles, or curbs.",
+        "can be placed at various heights or angles depending on the location and purpose of the sign."
+    ],
+    "vegetation": [
+        "irregular shapes",
+        "leaves or branches",
+        "texture of leaves",
+        "contrast with other elements in the photo, such as the road, buildings, or sky.",
+        "Reflections on the leaves can also be a helpful clue, especially if the vegetation is close to a light source.",
+        "In urban environments, vegetation may also be represented by trees, bushes, or shrubs planted along the roadside, or by parks or green areas. These features can provide additional context and help distinguish vegetation from other urban elements."
+    ],
+    "terrain": [
+        "a natural environment",
+        "may include various textures and colors such as earth, pavement, grass, or water",
+        "lacks distinct geometric shapes or lines",
+        "may show reflections or highlights from streetlights or other artificial light sources",
+        "may have vegetation or other natural elements present",
+        "lacks flat surfaces or clearly defined edges",
+        "may include shadows and contrasts due to the presence of light sources and variations in elevation or terrain."
+    ],
+    "sky": [
+        "dark blue, black, or inky color",
+        "stars (if it's clear) or clouds (if it's cloudy)",
+        "city lights and reflections on the clouds",
+        "edges where sky meets buildings, trees, or ground",
+        "no distinct shapes or features beyond the city lights",
+        "sometimes appears smoggy or hazy in urban areas",
+        "may have artificial light sources such as moon or streetlights."
+    ],
+    "person": [
+        "distinct shape and posture",
+        "usually dressed in dark colors",
+        "a head with a face and shoulders",
+        "presence of arms",
+        "presence of legs",
+        "reflective surfaces such as shoes, watches, or metal jewelry",
+        "lighter areas in the photo that could correspond to headlights, streetlights, or other sources of light.However, it's important to note that in a fast-moving vehicle it may be difficult to capture clear images of people or other objects, and the ambient lighting conditions may make it even harder. Additionally, the presence of other objects such as cars, buildings, and streetlights can make it more challenging to distinguish between a person and the background."
+    ],
+    "rider": [
+        "wearing helmet, jacket, gloves, or other protective gear",
+        "contrasting color against the background",
+        "visible headlight or tail light reflections on helmet or helmet visor",
+        "no vehicle or vehicle parts visible beside the rider",
+        "no animals present",
+        "visible handlebars or steering mechanisms",
+        "no traffic cones or other construction equipment",
+        "no other people in the immediate vicinity",
+        "if on a bicycle, a chain and pedals may be visible",
+        "if on a motorcycle, exhaust pipes and engine components may be visible",
+        "no visible registration plates or license tags."
+    ],
+    "car": [
+        "headlights and taillights",
+        "metallic or reflective body",
+        "windows",
+        "visible wheels",
+        "wheels have hubcaps or rims",
+        "parallel lines of windows and doors",
+        "exhaust pipe (possibly visible)",
+        "reflective surfaces such as chrome or mirrors",
+        "paint color may be visible, may appear darker or reflective in night pictures.Keep in mind that other vehicles such as motorcycles, trucks, and buses have similar characteristics and distinction may come down to the number of wheels, size, and shape of the vehicle."
+    ],
+    "truck": [
+        "typically has a box or flatbed body",
+        "headlights and taillights (may be reflecting from surrounding surfaces)",
+        "cab over the front wheels",
+        "often has large tires and high ground clearance",
+        "may have distinctive logos or branding visible",
+        "may be pulling a trailer.Keep in mind that it may be challenging to distinguish a truck from other vehicles like buses, vans, or SUVs based on the attributes listed above alone, so additional context and information could be helpful."
+    ],
+    "bus": [
+        "multiple rows of seats for passengers",
+        "a distinctive shape, usually cylindrical or rectangular",
+        "a bus stop or shelter visible nearby",
+        "illuminated or reflective bus identification on the side or front",
+        "headlights and tail lights visible",
+        "often has a destination sign visible above the windshield",
+        "may have a route number or logo on the side or front",
+        "reflective glass windowsIt's important to note that due to the darkness, some of these features may not be as distinguishable as during the day. Additionally, other vehicles on the road, such as trucks or trailers, can also have similar shapes and may be harder to distinguish from a bus."
+    ],
+    "train": [
+        "multiple connected carriages",
+        "steam or exhaust coming out of the chimney",
+        "a bright light or headlights at the front",
+        "a large, metal structure",
+        "tracks running alongside or beneath thetrain",
+        "power lines overhead",
+        "signals or markers along the tracks",
+        "reflections of lights on the wet surfaces of the carriages or tracks",
+        "the absence of a driver or a cabin in the front"
+    ],
+    "motorcycle": [
+        "machine with an engine",
+        "a rider wearing protective gear such as a helmet and leather jacket",
+        "headlights",
+        "tail lights",
+        "motor exhaust pipe",
+        "a large tire at the back and smaller tires at the front",
+        "a seat for the rider",
+        "handlebars or grips",
+        "often has a distinct engine noise, which may not be visible in the photo but audible."
+    ],
+    "bicycle": [
+        "often black or dark colored",
+        "distinctive shape of a frame",
+        "thin tires",
+        "pedals",
+        "a saddle or seat",
+        "handlebars with grips",
+        "a chain and transmission system",
+        "often has reflectors or lights on the wheels, frame, or other parts for increased visibility.Additionally, you may be able to spot a rider, wearing bright or reflective clothing, with their legs pedaling, or the reflections of the rider or buildings in the wet or shiny surface of the road."
+    ]
+}

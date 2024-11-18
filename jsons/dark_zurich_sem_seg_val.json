@@ -1,142 +1,181 @@
 {
-    "unlabeled": [
-        "unknown_shape",
-        "no_color",
-        "no_texture",
-        "no_pattern",
-        "no_orientation"
+    "background of night photos taken while driving": [
+        "dark sky with stars or moon",
+        "headlights or taillights of other vehicles",
+        "streetlights or lamps along the road",
+        "blurry or streaked lights due to motion",
+        "dark surroundings with occasional lit areas",
+        "reflective road markings or signs"
     ],
     "road": [
-        "gray_color",
-        "rough_texture",
-        "straight_pattern",
-        "horizontal_orientation",
-        "large_size"
+        "a continuous, paved, or marked path",
+        "straight or curved lines formed by the road's edges",
+        "markings such as lane dividers, arrows, or text",
+        "reflected light from headlights or streetlights on the road surface",
+        "a clear path or separation from surrounding terrain or vegetation",
+        "a consistent texture and color differing from the surrounding environment"
     ],
     "sidewalk": [
-        "light_gray_color",
-        "smooth_texture",
-        "curved_pattern",
-        "flat_orientation",
-        "small_size"
+        "a paved path parallel to the road",
+        "different texture or color compared to the road",
+        "linear shape, often with a clear boundary between the sidewalk and the road",
+        "may be lined with buildings, trees, or streetlights",
+        "presence of pedestrians or bicyclists",
+        "a curb or other separation from the road",
+        "may have markings or patterns, such as bricks or tiles"
     ],
     "building": [
-        "varied_color",
-        "rough_texture",
-        "angular_pattern",
-        "vertical_orientation",
-        "large_size"
+        "stationary structure with a fixed location",
+        "various shapes, sizes, and architectural styles",
+        "walls, windows, doors, and roofs",
+        "lit windows, doors, or exterior lights",
+        "distinct edges and lines",
+        "varying textures, colors, and reflections",
+        "may have a sign or logo",
+        "may be partially or fully illuminated"
     ],
     "wall": [
-        "single_color",
-        "smooth_texture",
-        "straight_pattern",
-        "vertical_orientation",
-        "medium_size"
+        "vertical surface",
+        "flat and continuous",
+        "uniform or repetitive texture or pattern",
+        "may have visible joints or seams",
+        "often attached to a building or fence",
+        "may have visible windows, doors, or other architectural features",
+        "can cast a shadow",
+        "can reflect or absorb light from surrounding environment"
     ],
     "fence": [
-        "varied_color",
-        "complex_texture",
-        "curved_pattern",
-        "vertical_orientation",
-        "small_size"
+        "A series of vertical posts or bars",
+        "Horizontal rails or wires connecting the posts",
+        "Can be made of wood, metal, or vinyl",
+        "May have a gate or entrance",
+        "Can be of varying heights and lengths",
+        "May be adorned with decorations or lighting"
     ],
     "pole": [
-        "single_color",
-        "smooth_texture",
-        "straight_pattern",
-        "vertical_orientation",
-        "small_size"
+        "Long, thin, and vertical shape",
+        "Often attached to or standing on the ground, sidewalk, or road",
+        "May have a rounded or flat top",
+        "Can be made of metal, wood, or concrete",
+        "May have a light or sign attached to it",
+        "Can cast a long shadow, especially at night",
+        "Can be solitary or part of a series (e.g., lamp post, fence post)"
     ],
     "traffic light": [
-        "three_color",
-        "smooth_texture",
-        "angular_pattern",
-        "vertical_orientation",
-        "small_size"
+        "tall vertical structure",
+        "multiple colored lights (red, yellow, green)",
+        "lit lights standing out against a darker background",
+        "rectangular or circular shape",
+        "mounted on a pole or hung from a gantry",
+        "located at an intersection or crossing point"
     ],
     "traffic sign": [
-        "varied_color",
-        "smooth_texture",
-        "angular_pattern",
-        "vertical_orientation",
-        "small_size"
+        "rectangular or diamond-shaped",
+        "reflective material or bright colors",
+        "mounted on a pole or hung from a gantry",
+        "shows text, symbols, or arrows",
+        "illuminated by headlights",
+        "typically placed near road intersections or curves",
+        "often has a distinctive shape or color scheme based on its purpose (e.g. stop sign, traffic direction sign)"
     ],
     "vegetation": [
-        "green_color",
-        "complex_texture",
-        "irregular_pattern",
-        "random_orientation",
-        "varied_size"
+        "varies in color, shape, and size",
+        "can be green, brown, yellow, or wilting",
+        "may have shadows or highlights from surrounding light sources",
+        "can be dense or sparse",
+        "may have visible details like leaves, branches, or flowers",
+        "often has an organic, irregular shape",
+        "may be illuminated by headlights, streetlights, or other ambient light sources"
     ],
     "terrain": [
-        "brown_color",
-        "rough_texture",
-        "irregular_pattern",
-        "random_orientation",
-        "varied_size"
+        "varied elevations and depressions",
+        "natural features such as hills, mountains, valleys, and bodies of water",
+        "textural variations such as rocky, sandy, grassy, or muddy surfaces",
+        "shadows and highlights created by the night lighting",
+        "absence of man-made structures or objects in the foreground",
+        "possible presence of trees, weeds, or other vegetation"
     ],
     "sky": [
-        "blue_color",
-        "no_texture",
-        "irregular_pattern",
-        "flat_orientation",
-        "full_size"
+        "dark or black background",
+        "stars or moon visible",
+        "clouds may be visible, often illuminated by city lights or moon",
+        "may show a gradient of colors, from dark blue to black",
+        "may show a horizon line where it meets the terrain or buildings"
     ],
     "person": [
-        "varied_color",
-        "complex_texture",
-        "irregular_pattern",
-        "random_orientation",
-        "small_size"
+        "upright posture",
+        "humanoid shape",
+        "presence of a head, torso, arms, and legs",
+        "clothed or partially clothed body",
+        "shoes or other footwear",
+        "facial features, such as eyes, nose, and mouth",
+        "hair or headgear",
+        "reflective clothing or accessories (e.g. reflective vest, jacket, or jewelry)"
     ],
     "rider": [
-        "varied_color",
-        "complex_texture",
-        "irregular_pattern",
-        "random_orientation",
-        "small_size"
+        "a person wearing protective gear such as a helmet",
+        "reflective clothing or accessories",
+        "sitting astride a vehicle, such as a motorcycle or bicycle",
+        "legs stretched out to the sides, with one leg pedaling (if on a bicycle)",
+        "hands grasping handlebars",
+        "possibly illuminated by streetlights or vehicle headlights"
     ],
     "car": [
-        "varied_color",
-        "smooth_texture",
-        "angular_pattern",
-        "horizontal_orientation",
-        "medium_size"
+        "vehicle with four wheels",
+        "metallic body",
+        "headlights (illuminated or reflective)",
+        "taillights (illuminated or reflective)",
+        "license plate",
+        "windshield and windows",
+        "mirrors and wheels",
+        "bumper and grille"
     ],
     "truck": [
-        "varied_color",
-        "smooth_texture",
-        "angular_pattern",
-        "horizontal_orientation",
-        "large_size"
+        "large vehicle with an enclosed cargo area",
+        "typically higher and larger than a car",
+        "often with a separate cabin for the driver",
+        "headlight configuration (usually two rectangular headlights)",
+        "taillight configuration (usually two or four rectangular taillights)",
+        "possible presence of a trailer or towing hook",
+        "reflecting lights or reflectors on the side or rear",
+        "a large grille on the front",
+        "a logo or branding on the side or front"
     ],
     "bus": [
-        "varied_color",
-        "smooth_texture",
-        "angular_pattern",
-        "horizontal_orientation",
-        "large_size"
+        "large, rectangular vehicle body",
+        "bright headlights and taillights",
+        "distinctive shape and size, usually longer and taller than cars",
+        "often has a flat front and a curved roof",
+        "may have a sign or display above the windshield showing the route or destination",
+        "may have a longer wheelbase and multiple axles",
+        "often has a distinctive paint scheme or design"
     ],
     "train": [
-        "single_color",
-        "rough_texture",
-        "angular_pattern",
-        "horizontal_orientation",
-        "large_size"
+        "long and narrow shape with multiple wheels",
+        "bright headlights or taillights",
+        "reflective surfaces or stripes for visibility",
+        "metal body, often with a silver or grey color",
+        "distinct sections or cars connected together",
+        "markings or logos on the side",
+        "tracks or rails nearby"
     ],
     "motorcycle": [
-        "varied_color",
-        "smooth_texture",
-        "angular_pattern",
-        "horizontal_orientation",
-        "small_size"
+        "two wheels",
+        "a low seat or saddle",
+        "handlebars with controls and mirrors",
+        "a small engine or fuel tank",
+        "a headlight (often a single, centered light)",
+        "a license plate",
+        "a rider sitting astride the bike",
+        "possibly, a mirror or turn signal lights on the handlebars"
     ],
     "bicycle": [
-        "varied_color",
-        "smooth_texture",
-        "angular_pattern",
-        "horizontal_orientation",
-        "small_size"
+        "two wheels",
+        "frame and handlebars",
+        "pedals",
+        "seat and handlebars",
+        "reflective surfaces (e.g. reflectors on wheels or frame)",
+        "headlights or taillights",
+        "rider's silhouette or movement"
     ]
 }

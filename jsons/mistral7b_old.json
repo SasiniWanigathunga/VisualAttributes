@@ -1,0 +1,208 @@
+{
+    "background of night photos taken while driving": [
+        "lack of clear detail due to low light conditions",
+        "reflections or refractions on glass surfaces such as windows or buildings",
+        "headlights from cars or other vehicles",
+        "streetlights or other outdoor lights illuminating the scene",
+        "blurriness due to motion while taking the photo",
+        "absence of vegetation or clear terrain features",
+        "buildings, walls, and other structures appearing distorted due to the wide-angle view of a car's windshield or dash-mounted camera."
+    ],
+    "road": [
+        "may appear smooth or textured, depending on the presence of asphalt or concrete",
+        "may have visible lane markings",
+        "may reflect light from oncoming vehicles or streetlights",
+        "may appear darker than nearby areas",
+        "may have visible signs of wear, such as cracks or puddles",
+        "may have visible edge transitions between the road and adjacent features, such as sidewalks or curbs.Keep in mind that a road can appear different depending on the lighting conditions, weather, and the presence of other elements in the scene, so these attributes may not always be present in every photo.</s>"
+    ],
+    "sidewalk": [
+        "flat and level or slightly sloped",
+        "usually located near the side of the road or sidewalk",
+        "often has markings (e.g. crosswalks, wheelchair access symbols, etc.)",
+        "usually has little or no vegetation growth",
+        "often has lights or reflections from cars or streetlights",
+        "may have benches, bus stops, or other infrastructure nearbyIt's important to note that while these attributes can help distinguish a sidewalk from other elements in a photo, they are not foolproof. The specific lighting and viewing angle can affect how clearly these features are visible. Additionally, there may be situations where other elements in the photo, such as streetlights or reflections on the road, can produce similar visual effects, making it more challenging to identify the presence of a sidewalk.</s>"
+    ],
+    "building": [
+        "solid structure",
+        "edges and lines defining the shape",
+        "presence of windows, balconies, or doors",
+        "lighting sources, both from the building and street lamps",
+        "lack of vegetation between the building and the ground",
+        "parallel or perpendicular alignment to the road",
+        "chimneys, satellite dishes, or antennas on the roof",
+        "architectural details such as columns, arches, or cornices."
+    ],
+    "wall": [
+        "vertically aligned",
+        "lack of movement",
+        "solid color or rough texture",
+        "often attached to buildings or other structures",
+        "may have graffiti, posters, or other types of artwork",
+        "can have windows, doors, or other openings if part of a building",
+        "May be visible due to lights reflecting off of it.",
+        "May cast shadows if there is a light source nearby."
+    ],
+    "fence": [
+        "used to enclose an area",
+        "can be made of various materials such as wood, metal, or concrete",
+        "usually have vertical or diagonal orientation",
+        "may have gaps or openings",
+        "can have sharp or pointed top to deter climbing",
+        "may have intricate or decorative designs on the top or between the posts",
+        "may be illuminated by streetlights.Additionally, fences often appear as horizontal or diagonal lines against the background of cities, making them more distinguishable from other objects such as buildings, trees, and roads.</s>"
+    ],
+    "pole": [
+        "tall, vertical shape",
+        "rounded or square base",
+        "electrical wires or cables running from the pole",
+        "streetlights, traffic lights, or other fixtures attached to the pole",
+        "graffiti or marks on the pole's surface",
+        "dark color",
+        "reflective surfaces from the wires or fixtures that could catch the car's headlights",
+        "no visible biological features, such as limbs or body shape."
+    ],
+    "traffic light": [
+        "three light sources of distinct colors (usually red, yellow, and green)",
+        "metallic or reflective surface",
+        "clear or legible markings indicating the function of each light (e.g. red for stop, yellow for caution, and green for go)",
+        "pole or other support structure",
+        "reflection and/or illumination of the surrounding environment, especially roads and cars.Additionally, traffic lights may have a retroreflector strip that reflect light back to the source, making them more visible in low-light conditions.</s>"
+    ],
+    "traffic sign": [
+        "bright colors like red, yellow, green, and blue",
+        "reflective material on the sign to make it visible at night",
+        "symbols and text on the sign",
+        "usually located near the side of the road or at an intersection",
+        "may be attached to a pole, fence, or other support structure.",
+        "often mounted above the road surface or on the side of a building, wall, or pole.",
+        "some signs may have lighting, especially on major roads or intersections."
+    ],
+    "vegetation": [
+        "irregular shapes",
+        "rough texture",
+        "leaves, branches or stem",
+        "lack of uniformity in size, shape and color",
+        "contrast with the neighboring urban structures such as buildings, roads, and pavement.",
+        "reflection of the surrounding urban lights, creating a certain brightness and luminosity.",
+        "silhouette form against a bright background, such as the sky, or a well-lit building.It is important to note that due to the night conditions and the urban environment, it might be more challenging to distinguish vegetation as compared to daytime photos, but the above attributes should be helpful in increasing the chances of recognizing it in the scene.</s>"
+    ],
+    "terrain": [
+        "lack of definitive shape or form",
+        "different texture and colors compared to urban structures",
+        "can appear darker than the other elements in the photo",
+        "may include natural features such as grass, trees, bushes, hills, or rocks",
+        "may include man-made features such as pavement, sidewalks, or construction sites",
+        "may include reflections from street lights or other light sources",
+        "may have inconsistent lighting from different sources",
+        "may have moving elements such as trees swaying in the wind or reflections on water surfaces."
+    ],
+    "sky": [
+        "possible presence of stars, moon, or planets",
+        "often a gradient of darker shades near the horizon and lighter shades towards the top",
+        "possibly have some light sources, such as city lights, street lamps, or building lights creating contrast",
+        "possibly have atmospheric phenomena like fog or smog affecting the appearance",
+        "may have some airplanes or helicopters leaving trails",
+        "may have some clouds, which can come in various shapes, sizes, and colors.It's important to note that it might be challenging to distinguish the sky from some other elements like dark buildings or heavy smog. However, the presence of the mentioned attributes could help in making an estimation.</s>"
+    ],
+    "person": [
+        "typically wearing clothing",
+        "has a distinguishable face and upper body",
+        "can be seen carrying an object or holding an accessory (e.g. a phone, bag, umbrella)",
+        "can be seen in the reflection of windows or other reflective surfaces",
+        "can be distinguished from other objects due to their irregular shape and movement.",
+        "may have a visible silhouette or glow of a light source.Additionally, people may be seen in the following contexts in urban city photographs taken at night:",
+        "near street lights or other lighting sources",
+        "at intersections or crosswalks",
+        "at bus stops or other public transport areas",
+        "at shops or stores",
+        "near cars, bicycles, or motorcycles",
+        "on sidewalks or in park areas",
+        "on stairs or bridges",
+        "in building entrances",
+        "near traffic signals or signs",
+        "at pedestrian crossing",
+        "inside vehicles",
+        "in parking lots",
+        "at railway stations or platforms",
+        "at motorways or highwaysIt's important to note that depending on the lighting and angle of the photo, the visual attributes of a person might not be easily discernible, thus relying on other contextual information and objects present in the photo could be helpful.</s>"
+    ],
+    "rider": [
+        "a human figure",
+        "often wearing reflective clothing or a helmet",
+        "may be holding onto a handlebar or grip",
+        "may be in motion, blurred from the photo",
+        "may be visible in reflection on a nearby surface such as a puddle or a car windshield",
+        "may be the only figure in the photo, or may be with other riders or vehicles.Additionally, if the rider is on a motorcycle, the following attributes may also be helpful in distinguishing it from the background:",
+        "a two-wheeled vehicle",
+        "often smaller than a car or bus",
+        "can have a headlight or taillight",
+        "may have reflective stripes or decals on the body",
+        "may have a helmet on the seat or nearby.If the rider is on a bicycle, the following attributes may also be helpful in distinguishing it from the background:",
+        "a single-wheel or multi-wheeled vehicle",
+        "often smaller than a car, bus or motorcycle",
+        "can have a reflective strip or decals on the body",
+        "may have a helmet or other protective gear on the rider",
+        "may be the only vehicle or figure in the photo, or may be among other vehicles and pedestrians."
+    ],
+    "car": [
+        "long and rectangular shape",
+        "bright headlights and taillights",
+        "often has a reflection of the surrounding environment in its windows",
+        "wheel rims",
+        "exhaust pipe or tailpipe",
+        "license plate number (in clearer photos)",
+        "windshield wipers, if they are in use",
+        "a visible driver, if seen from the frontAdditionally, cars in urban environments may be parked, which can be identified by their lack of motion, and the absence of headlights, taillights, and exhaust fumes. Urban backgrounds can include buildings, walls, sidewalks, poles, traffic lights, vegetation, and other vehicles, so the presence of these objects does not necessarily indicate a car, but their shape, size, and context can provide useful clues.</s>"
+    ],
+    "truck": [
+        "flat bed or cab-over design",
+        "headlights with a distinctive pattern",
+        "grille, usually with a prominent brand or logo",
+        "often has larger tires than cars",
+        "cargo may be visible on the bed",
+        "reflection of city lights on the truck surface",
+        "exhaust pipe or stack",
+        "additional lights such as work lights or spotlights",
+        "cabins may have additional features such as a sleeper compartment or crane arm."
+    ],
+    "bus": [
+        "designed for public transport",
+        "long and usually double-decker",
+        "multiple doors",
+        "illuminated sign on the front and/or side",
+        "distinct headlights and tail lights",
+        "often has lines or logos on the sides",
+        "may be pulling over at a bus stop, or passing a bus stop with waiting passengers.Additionally, buses often have large windows, making them stand out against dark urban backgrounds. Also, buses are usually in motion, so their tires, exhaust pipe, and the reflection of lights on their surface could be other visual cues to indicate the presence of a bus in the photo.</s>"
+    ],
+    "train": [
+        "multiple carriages connected by couplings",
+        "steam or smoke coming out of the stack (only for steam trains)",
+        "bright headlights",
+        "often seen passing over or next to a road, bridge or underpass",
+        "often has a background of tracks and station infrastructure",
+        "may be partially obscured by darkness, clouds, or other objects",
+        "may have reflection of lights on windows or wet surfaces",
+        "may be seen moving relative to the background if the photo is taken while driving."
+    ],
+    "motorcycle": [
+        "silhouette of bike body and two wheels",
+        "headlamp and tail light",
+        "exhaust pipe or muffler",
+        "absence of doors or roof",
+        "saddle or seat",
+        "wheels and tire tread",
+        "mirrors and handlebars",
+        "rider wearing protective gear like helmet, jacket, pants, and boots."
+    ],
+    "bicycle": [
+        "thin and elongated frame",
+        "pedals with reflectors, or shining pedals",
+        "handlebars",
+        "seat",
+        "a chain and gears, if visible",
+        "a light attached to the frame or handlebars",
+        "no exhaust pipes or other tell-tale signs of motorized vehicles.Additionally, contrasting colors between the bicycle and the background (such as a dark bicycle against lighter city lights, for example) can be helpful in identifying a bicycle in a night photo.</s>"
+    ]
+}

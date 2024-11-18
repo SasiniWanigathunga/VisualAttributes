@@ -35,8 +35,8 @@ A: There are several useful visual attributes to tell there is a television in a
 - input ports for connecting to other devices
 - a remote control
 
-Q: What are useful visual attributes for distinguishing a {category_name} from{' , '.join(classes)} in a aerial image?
-A: There are several useful visual attributes to tell there is a {category_name} in a aerial image:
+Q: What are useful visual attributes for distinguishing a {category_name} from {' , '.join(classes)} in a x-ray image?
+A: There are several useful visual attributes to tell there is a {category_name} in a x-ray image:
 -
 """
 
@@ -106,5 +106,6 @@ def obtain_descriptors_and_save(filename, class_list):
 # obtain_descriptors_and_save("jsons/mhp_v1_sem_seg_test.json", ['everything other than body parts or clothes items', 'hat', 'hair', 'sunglasses', 'upper clothes', 'skirt', 'pants', 'dress', 'belt', 'left shoe', 'right shoe', 'face', 'left leg', 'right leg', 'left arm', 'right arm', 'bag', 'scarf', 'torso skin'])
 # obtain_descriptors_and_save("jsons/corrosion_cs_sem_seg_test.json", ['regions such as the concrete surfaces, metal surfaces or environment', 'steel with fair corrosion', 'steel with poor corrosion', 'steel with severe corrosion'])
 # obtain_descriptors_and_save("jsons/dram_sem_seg_test.json", ['bird', 'boat', 'bottle', 'cat', 'chair', 'cow', 'dog', 'horse', 'person', 'potted-plant', 'sheep', 'background'])
-obtain_descriptors_and_save("jsons/isaid_sem_seg_val.json", ['background of aerial images', 'boat', 'storage tank', 'baseball diamond', 'tennis court', 'basketball court', 'running track field', 'bridge', 'truck or bus', 'car', 'helicopter', 'swimming pool', 'traffic circle', 'soccer field', 'air plane', 'pier'])
+# obtain_descriptors_and_save("jsons/isaid_sem_seg_val.json", ['background of aerial images', 'boat', 'storage tank', 'baseball diamond', 'tennis court', 'basketball court', 'running track field', 'bridge', 'truck or bus', 'car', 'helicopter', 'swimming pool', 'traffic circle', 'soccer field', 'air plane', 'pier'])
 # obtain_descriptors_and_save("jsons/foodseg103_sem_seg_test.json", ['background of food', 'candy', 'egg tart', 'french fries', 'chocolate', 'biscuit', 'popcorn', 'pudding', 'ice cream', 'cheese butter', 'cake', 'wine', 'milkshake', 'coffee', 'juice', 'milk', 'tea', 'almond', 'red beans', 'cashew', 'dried cranberries', 'soy', 'walnut', 'peanut', 'egg', 'apple', 'date', 'apricot', 'avocado', 'banana', 'strawberry', 'cherry', 'blueberry', 'raspberry', 'mango', 'olives', 'peach', 'lemon', 'pear', 'fig', 'pineapple', 'grape', 'kiwi', 'melon', 'orange', 'watermelon', 'steak', 'pork', 'chicken duck', 'sausage', 'fried meat', 'lamb', 'sauce', 'crab', 'fish', 'shellfish', 'shrimp', 'soup', 'bread', 'corn', 'hamburg', 'pizza', 'hanamaki baozi', 'wonton dumplings', 'pasta', 'noodles', 'rice', 'pie', 'tofu', 'eggplant', 'potato', 'garlic', 'cauliflower', 'tomato', 'kelp', 'seaweed', 'spring onion', 'rape', 'ginger', 'okra', 'lettuce', 'pumpkin', 'cucumber', 'white radish', 'carrot', 'asparagus', 'bamboo shoots', 'broccoli', 'celery stick', 'cilantro mint', 'snow peas', 'cabbage', 'bean sprouts', 'onion', 'pepper', 'green beans', 'French beans', 'king oyster mushroom', 'shiitake', 'enoki mushroom', 'oyster mushroom', 'white button mushroom', 'salad', 'other ingredients'])
+obtain_descriptors_and_save("jsons/paxray_sem_seg_test.json", ["others", "diaphragm"])
